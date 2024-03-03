@@ -37,8 +37,8 @@
 - CREATE TABLE posts( post_id INTEGER PRIMARY KEY, post_type TEXT, sender TEXT, receiver TEXT, date_time_posted DATETIME, visibility TEXT);
 
 ### Link to the mock data file
-- [Users file](C:\Spring 2024\database\4-sql-crud-Vighnesh2822000\data\users.csv)
-- [Posts file](C:\Spring 2024\database\4-sql-crud-Vighnesh2822000\data\posts.csv)
+- [Users file](data\users.csv)
+- [Posts file](data\posts.csv)
 
 ### code to imort the csv files
 - before import use this code-
