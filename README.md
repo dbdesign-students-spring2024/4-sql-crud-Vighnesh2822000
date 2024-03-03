@@ -44,10 +44,12 @@ Answer number corresponds to the question number on instructions page
 
 ### Code to create the tables
 1) **Users table**
+- I didn't add any number column to this table because I wanted to the username column to be unique(primary key)!
+
 - create table users ( user_id INTEGER, username TEXT PRIMARY KEY, password TEXT, email TEXT);
 
 2) **Posts table**
-- CREATE TABLE posts( post_id INTEGER PRIMARY KEY, post_type TEXT, sender TEXT, receiver TEXT, date_time_posted DATETIME, visibility TEXT);
+- CREATE TABLE posts( post_id INTEGER PRIMARY KEY, post_type TEXT, sender TEXT, receiver TEXT, post_type TEXT date_time_posted DATETIME, visibility TEXT);
 
 ### Link to the mock data file
 - [Users file](https://github.com/dbdesign-students-spring2024/4-sql-crud-Vighnesh2822000/blob/main/data/users.csv)
