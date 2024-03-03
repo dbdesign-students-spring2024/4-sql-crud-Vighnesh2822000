@@ -16,7 +16,7 @@
 - .import 'C:\Spring 2024\database\4-sql-crud-Vighnesh2822000\data\restaurants.csv' restaurants --skip 1
 
 ### Link to the restaurants data file 
-- [Mock restaurant data file](data\restaurants.csv)
+- [Mock restaurant data file](https://github.com/dbdesign-students-spring2024/4-sql-crud-Vighnesh2822000/blob/main/data/restaurants.csv)
 
 ### Answer Queries
 
