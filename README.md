@@ -4,10 +4,14 @@
 
 ### Code to create the tables
 1) **Restaurnat table**
+```sql
 - CREATE TABLE restaurants ( res_id INTEGER PRIMARY KEY, name TEXT, neighbourhood TEXT, category TEXT, price TEXT, good_for_kids BOOLEAN, otime TEXT, ctime TEXT, star_rating INTEGER);
-
+```
  2) **Reviews table**
+ ```sql
  - CREATE TABLE reviews ( rev_id INTEGER PRIMARY KEY, res_id INTEGER, review TEXT);
+ ```
+
 ### Code to import the csv file into the restaurant table
 - before importin use this code- 
 ```sql
@@ -45,12 +49,14 @@ Answer number corresponds to the question number on instructions page
 ### Code to create the tables
 1) **Users table**
 - I didn't add any number column to this table because I wanted to the username column to be unique(primary key)!
-
-- create table users ( user_id INTEGER, username TEXT PRIMARY KEY, password TEXT, email TEXT);
-
+```sql
+- CREATE TABLE users ( user_id INTEGER, username TEXT PRIMARY KEY, password TEXT, email TEXT);
+```
 2) **Posts table**
-- CREATE TABLE posts( post_id INTEGER PRIMARY KEY, post_type TEXT, sender TEXT, receiver TEXT, post_type TEXT date_time_posted DATETIME, visibility TEXT);
 
+```sql
+- CREATE TABLE posts( post_id INTEGER PRIMARY KEY, post_type TEXT, sender TEXT, receiver TEXT, post_type TEXT date_time_posted DATETIME, visibility TEXT);
+```
 ### Link to the mock data file
 - [Users file](https://github.com/dbdesign-students-spring2024/4-sql-crud-Vighnesh2822000/blob/main/data/users.csv)
 - [Posts file](https://github.com/dbdesign-students-spring2024/4-sql-crud-Vighnesh2822000/blob/main/data/posts.csv)
