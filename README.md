@@ -58,7 +58,7 @@ Answer number corresponds to the question number on instructions page
 2) **Posts table**
 
 ```sql
-- CREATE TABLE posts( post_id INTEGER PRIMARY KEY, post_type TEXT, sender TEXT, receiver TEXT, post_type TEXT date_time_posted DATETIME, visibility TEXT);
+- CREATE TABLE posts( post_id INTEGER PRIMARY KEY, post_type TEXT, sender TEXT, receiver TEXT, post_type TEXT, date_time_posted DATETIME, visibility TEXT);
 ```
 ### Link to the mock data file
 - [Users file](https://github.com/dbdesign-students-spring2024/4-sql-crud-Vighnesh2822000/blob/main/data/users.csv)
