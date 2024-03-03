@@ -47,7 +47,7 @@ Answer number corresponds to the question number on instructions page
 
 
 
-## Social Media A.db
+## Social Media App
 
 ### Code to create the tables
 1) **Users table**
