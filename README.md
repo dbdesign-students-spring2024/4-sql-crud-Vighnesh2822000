@@ -53,7 +53,7 @@ Answer number corresponds to the question number on instructions page
 1) **Users table**
 - I didn't add any number column to this table because I wanted to the username column to be unique(primary key)!
 ```sql
-- CREATE TABLE users ( user_id INTEGER, username TEXT PRIMARY KEY, password TEXT, email TEXT);
+- CREATE TABLE users ( username TEXT PRIMARY KEY, password TEXT, email TEXT);
 ```
 2) **Posts table**
 
