@@ -19,14 +19,26 @@
 - [Mock restaurant data file](https://github.com/dbdesign-students-spring2024/4-sql-crud-Vighnesh2822000/blob/main/data/restaurants.csv)
 
 ### Answer Queries
-
+```sql
 - 1) select name from restaurants where price = 'cheap' and neighbourhood ='bronx';
-- 2) select name, star_rating from restaurants where category = 'french' and star_rating >= 3 order by star_rating desc;
-- 3) select * from restaurants where otime < strftime('%H:%M', 'now', 'localtime') and ctime > strftime('%H:%M', 'now', 'localtime');
-- 4) insert into reviews (res_id, reviews) select res_id, 'The worst place' from restaurants where restaurants.name = 'Senger LLC';
-- 5) delete from restaurants where good_for_kids = false;
-- 6) select neighbourhood, count(name) as number_of_restaurants from restaurants group by neighbourhood; 
 
+```
+```sql
+- 2) select name, star_rating from restaurants where category = 'french' and star_rating >= 3 order by star_rating desc;
+```
+```sql
+- 3) select * from restaurants where otime < strftime('%H:%M', 'now', 'localtime') and ctime > strftime('%H:%M', 'now', 'localtime');
+```
+```sql
+- 4) insert into reviews (res_id, reviews) select res_id, 'The worst place' from restaurants where restaurants.name = 'Senger LLC';
+
+```
+```sql
+- 5) delete from restaurants where good_for_kids = false;
+```
+```sql
+- 6) select neighbourhood, count(name) as number_of_restaurants from restaurants group by neighbourhood; 
+```
 ## Social Media A.db
 
 ### Code to create the tables
@@ -49,6 +61,7 @@
 - .import 'C:\Spring 2024\database\4-sql-crud-Vighnesh2822000\data\posts.csv' posts --skip 1
 
 ### Answer queries
+
 1) insert into users (username, password, email) values ('vighnesh28','happyhappy', 'vd2058@nyu.edu');
 2) insert into posts (post_type, sender, receiver, post_text, date_time_posted, visibility) values ('message', 'dbail0','tovise1', 'How is it going mate?', strftime('%Y-%m-%d %H:%M:%S', 'now', 'localtime'), 'Visible');
 3) insert into posts(post_type, sender, receiver, post_text, date_time_posted, visibility) values ('story', 'vighnesh28', 'everyone', 'Party over here!!!!!', strftime('%Y-%m-%d %H:%M:%S', 'now', 'localtime'), 'Visible');
