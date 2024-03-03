@@ -1,0 +1,1001 @@
+res_id,name,neighbourhood,category,price,good_for_kids,otime,ctime,star_rating
+1,Reinger and Sons,brooklyn,peruvian,medium,TRUE,9:00,23:00,4
+2,Davis Inc,bronx,indian,medium,FALSE,7:00,0:00,2
+3,Zboncak-Schmitt,queens,mediterranean,medium,FALSE,16:00,14:00,5
+4,"Rosenbaum, Abernathy and Mosciski",queens,mediterranean,cheap,FALSE,16:00,3:00,3
+5,"Parker, O'Keefe and Osinski",bronx,indian,medium,FALSE,17:00,14:00,1
+6,Bahringer-Kozey,queens,french,medium,FALSE,9:00,1:00,1
+7,Anderson-Jacobi,queens,french,cheap,TRUE,7:00,20:00,3
+8,Trantow LLC,brooklyn,french,medium,TRUE,17:00,23:00,3
+9,Ward-Runolfsdottir,staten island,mexican,expensive,TRUE,14:00,0:00,3
+10,Carter Inc,manhattan,mediterranean,cheap,FALSE,18:00,12:00,4
+11,Gerhold-Blanda,manhattan,mediterranean,expensive,TRUE,8:00,20:00,4
+12,"Lemke, Wunsch and Altenwerth",manhattan,peruvian,expensive,TRUE,10:00,3:00,3
+13,Pacocha Inc,manhattan,peruvian,expensive,TRUE,10:00,22:00,4
+14,"Hoppe, Abernathy and Gleason",bronx,french,medium,TRUE,7:00,3:00,1
+15,"Walker, Kiehn and Gibson",manhattan,indian,cheap,TRUE,17:00,14:00,2
+16,"Adams, Pacocha and Reichert",queens,peruvian,medium,FALSE,19:00,22:00,1
+17,Hermann-Okuneva,staten island,french,expensive,TRUE,12:00,21:00,1
+18,"Hudson, Cormier and Rohan",bronx,mexican,medium,TRUE,20:00,22:00,1
+19,"Stoltenberg, Block and Armstrong",bronx,mediterranean,medium,TRUE,16:00,4:00,4
+20,"Hansen, Rempel and Shields",queens,indian,expensive,FALSE,16:00,2:00,3
+21,Parisian and Sons,bronx,indian,medium,FALSE,9:00,22:00,4
+22,Mitchell-Abshire,brooklyn,mediterranean,expensive,TRUE,19:00,3:00,2
+23,"O'Conner, Casper and Hayes",bronx,french,cheap,FALSE,14:00,13:00,4
+24,Kshlerin Inc,brooklyn,indian,medium,TRUE,6:00,0:00,4
+25,VonRueden-Rolfson,manhattan,peruvian,expensive,FALSE,18:00,12:00,4
+26,"Glover, Mueller and Simonis",staten island,french,medium,FALSE,9:00,23:00,2
+27,Muller Inc,staten island,peruvian,medium,FALSE,9:00,0:00,4
+28,"Dickens, Dooley and Hand",manhattan,french,expensive,FALSE,16:00,14:00,4
+29,"Casper, Block and Langosh",brooklyn,indian,cheap,FALSE,20:00,0:00,4
+30,Lowe LLC,bronx,peruvian,expensive,TRUE,9:00,3:00,1
+31,Barton LLC,brooklyn,peruvian,expensive,TRUE,9:00,2:00,5
+32,Murazik-Reynolds,brooklyn,indian,cheap,FALSE,13:00,2:00,3
+33,"Muller, Rippin and Keeling",brooklyn,mexican,expensive,FALSE,6:00,21:00,1
+34,Greenfelder Group,bronx,french,cheap,TRUE,17:00,20:00,3
+35,"Morissette, Hirthe and Schamberger",manhattan,mediterranean,cheap,FALSE,7:00,2:00,3
+36,"Quitzon, Krajcik and Walker",queens,indian,expensive,TRUE,10:00,23:00,4
+37,"Funk, Morissette and Wunsch",bronx,french,cheap,FALSE,8:00,3:00,3
+38,"Hoeger, Reinger and Hoppe",manhattan,mediterranean,medium,FALSE,17:00,14:00,2
+39,Upton Group,brooklyn,mediterranean,medium,FALSE,16:00,22:00,1
+40,Cassin-Legros,manhattan,indian,medium,FALSE,8:00,3:00,3
+41,"Jerde, Kuhn and Doyle",bronx,french,expensive,FALSE,18:00,21:00,1
+42,"Schumm, Wolff and Greenholt",staten island,mediterranean,cheap,FALSE,18:00,0:00,5
+43,Spencer-Price,manhattan,mexican,medium,TRUE,15:00,1:00,3
+44,Corwin Inc,manhattan,peruvian,expensive,FALSE,14:00,14:00,2
+45,Medhurst and Sons,brooklyn,indian,expensive,FALSE,8:00,22:00,5
+46,"Kirlin, Bins and Hermann",brooklyn,indian,expensive,TRUE,9:00,21:00,2
+47,Wolf LLC,brooklyn,mexican,cheap,TRUE,9:00,12:00,2
+48,"Bashirian, Yundt and Collier",queens,indian,cheap,TRUE,20:00,20:00,4
+49,Schiller-Dare,queens,indian,expensive,FALSE,13:00,21:00,5
+50,Kautzer Group,brooklyn,peruvian,expensive,TRUE,10:00,23:00,3
+51,"Thiel, Hauck and Beer",queens,peruvian,medium,FALSE,10:00,14:00,2
+52,"Grimes, Fisher and Anderson",manhattan,mediterranean,cheap,TRUE,9:00,22:00,5
+53,Stark and Sons,staten island,mexican,medium,FALSE,12:00,2:00,2
+54,"Doyle, Roob and Cole",brooklyn,mexican,cheap,TRUE,21:00,21:00,5
+55,"Conroy, Dickinson and Leuschke",manhattan,indian,cheap,TRUE,9:00,22:00,4
+56,Carter-Mayert,brooklyn,mexican,medium,TRUE,10:00,14:00,4
+57,"Hermiston, Keeling and Hintz",queens,french,expensive,FALSE,8:00,2:00,3
+58,"Dare, Schultz and Rogahn",bronx,french,expensive,TRUE,14:00,1:00,5
+59,Fay Group,manhattan,indian,expensive,FALSE,12:00,21:00,3
+60,"O'Keefe, Schneider and Hauck",staten island,mediterranean,expensive,TRUE,8:00,4:00,3
+61,"Huels, Haley and Mohr",staten island,indian,medium,TRUE,14:00,23:00,5
+62,Schmidt-Nikolaus,bronx,indian,medium,TRUE,19:00,23:00,2
+63,"Marks, Denesik and Botsford",queens,indian,expensive,TRUE,15:00,3:00,5
+64,"Toy, Okuneva and Spencer",staten island,indian,expensive,TRUE,9:00,23:00,3
+65,Kutch and Sons,queens,mediterranean,medium,TRUE,9:00,22:00,4
+66,"Bartell, Spencer and Murazik",bronx,mediterranean,cheap,TRUE,16:00,1:00,2
+67,Kassulke-Davis,bronx,peruvian,expensive,FALSE,12:00,22:00,1
+68,Ebert and Sons,staten island,mediterranean,cheap,FALSE,7:00,1:00,3
+69,Hickle Group,bronx,peruvian,medium,TRUE,7:00,3:00,4
+70,"Wyman, Upton and Dach",manhattan,mediterranean,medium,FALSE,17:00,14:00,1
+71,Prohaska Inc,brooklyn,mexican,cheap,FALSE,9:00,23:00,3
+72,Fahey-Wisoky,staten island,peruvian,cheap,FALSE,8:00,14:00,1
+73,Cartwright-Collier,bronx,mediterranean,expensive,FALSE,15:00,14:00,1
+74,Labadie Inc,queens,indian,expensive,FALSE,7:00,14:00,3
+75,Erdman Group,bronx,mediterranean,expensive,TRUE,19:00,0:00,5
+76,"Muller, Deckow and Bailey",bronx,mexican,expensive,TRUE,7:00,2:00,2
+77,Windler-Lindgren,bronx,mexican,cheap,FALSE,16:00,20:00,3
+78,Ortiz Inc,brooklyn,mediterranean,cheap,TRUE,21:00,22:00,3
+79,"Lowe, Keeling and Feest",bronx,peruvian,medium,FALSE,21:00,21:00,5
+80,Thiel-Gerlach,manhattan,french,expensive,TRUE,15:00,21:00,4
+81,Fritsch LLC,brooklyn,indian,expensive,FALSE,19:00,2:00,3
+82,Stiedemann and Sons,queens,mediterranean,cheap,TRUE,11:00,3:00,4
+83,Hickle-Tillman,staten island,french,expensive,TRUE,9:00,4:00,1
+84,"Williamson, Parker and Kemmer",staten island,peruvian,cheap,TRUE,21:00,22:00,1
+85,"Lindgren, Haag and Bosco",manhattan,mexican,medium,FALSE,19:00,21:00,4
+86,Borer Group,manhattan,mediterranean,cheap,FALSE,19:00,3:00,4
+87,Kertzmann Group,bronx,french,medium,FALSE,12:00,4:00,4
+88,"Hammes, Romaguera and Gutkowski",queens,mexican,medium,TRUE,19:00,4:00,4
+89,"West, Donnelly and MacGyver",queens,indian,expensive,FALSE,13:00,2:00,2
+90,Metz Group,brooklyn,mediterranean,medium,TRUE,16:00,0:00,1
+91,Mills-Howell,manhattan,mexican,expensive,FALSE,20:00,12:00,3
+92,Kub-Emard,queens,peruvian,medium,FALSE,19:00,1:00,2
+93,Lehner Inc,bronx,indian,expensive,TRUE,12:00,3:00,4
+94,"Larkin, Sanford and Wisoky",manhattan,mexican,cheap,TRUE,13:00,1:00,1
+95,Koss LLC,brooklyn,mexican,cheap,FALSE,18:00,0:00,1
+96,"Ward, Mueller and Jaskolski",manhattan,peruvian,medium,FALSE,14:00,1:00,4
+97,Parisian-Ritchie,bronx,indian,expensive,FALSE,11:00,13:00,1
+98,Turcotte and Sons,queens,mexican,cheap,TRUE,14:00,0:00,5
+99,Bernhard Inc,queens,indian,medium,TRUE,10:00,20:00,5
+100,Bernier and Sons,queens,french,cheap,TRUE,8:00,13:00,2
+101,Corkery and Sons,brooklyn,mexican,cheap,FALSE,14:00,3:00,1
+102,"Erdman, Mann and Crona",brooklyn,indian,cheap,FALSE,12:00,3:00,3
+103,Mosciski and Sons,manhattan,mexican,medium,TRUE,16:00,14:00,3
+104,Herman-Barrows,queens,peruvian,medium,FALSE,13:00,20:00,5
+105,Heaney LLC,manhattan,french,cheap,FALSE,7:00,22:00,5
+106,Schinner and Sons,brooklyn,mexican,medium,FALSE,11:00,22:00,5
+107,Mosciski Group,queens,mexican,medium,TRUE,8:00,2:00,1
+108,"Howe, Marvin and Schultz",manhattan,french,medium,TRUE,17:00,2:00,2
+109,Thompson LLC,queens,indian,medium,TRUE,12:00,23:00,2
+110,Bosco LLC,brooklyn,indian,medium,FALSE,13:00,13:00,3
+111,Lind-Mueller,brooklyn,peruvian,cheap,FALSE,16:00,21:00,1
+112,Zulauf-Quitzon,bronx,peruvian,expensive,TRUE,16:00,3:00,4
+113,Bartell Inc,staten island,mediterranean,expensive,TRUE,21:00,22:00,3
+114,Champlin-Barrows,queens,french,medium,FALSE,10:00,20:00,2
+115,Spinka LLC,brooklyn,french,cheap,TRUE,19:00,22:00,2
+116,Erdman-Mante,bronx,peruvian,medium,FALSE,7:00,13:00,5
+117,Lynch Inc,staten island,french,expensive,FALSE,14:00,4:00,4
+118,Torphy Group,queens,french,cheap,FALSE,20:00,14:00,5
+119,Tremblay Group,manhattan,mediterranean,medium,TRUE,19:00,14:00,1
+120,"Kovacek, Jones and Jacobi",manhattan,indian,cheap,FALSE,6:00,4:00,1
+121,Jacobs LLC,queens,indian,cheap,TRUE,6:00,2:00,5
+122,Wunsch-Bartoletti,manhattan,peruvian,medium,FALSE,17:00,20:00,1
+123,Kassulke and Sons,staten island,french,expensive,TRUE,10:00,22:00,4
+124,"Erdman, Simonis and Davis",bronx,mexican,medium,TRUE,14:00,4:00,3
+125,Ratke and Sons,brooklyn,peruvian,medium,FALSE,7:00,0:00,1
+126,"Terry, Considine and Reichel",queens,mexican,medium,TRUE,21:00,22:00,5
+127,Monahan Inc,brooklyn,peruvian,medium,TRUE,14:00,4:00,4
+128,Runte-Kerluke,brooklyn,french,medium,TRUE,13:00,0:00,5
+129,"Greenfelder, McClure and Upton",brooklyn,peruvian,expensive,TRUE,16:00,0:00,5
+130,Morar-Okuneva,staten island,french,expensive,TRUE,13:00,22:00,1
+131,Bins Inc,brooklyn,peruvian,expensive,FALSE,17:00,4:00,5
+132,"Klein, Weimann and Champlin",bronx,indian,cheap,FALSE,7:00,20:00,5
+133,Gusikowski and Sons,brooklyn,mexican,medium,FALSE,21:00,23:00,3
+134,Rippin-Gerhold,queens,indian,medium,FALSE,12:00,22:00,1
+135,Kihn Inc,manhattan,peruvian,medium,TRUE,12:00,14:00,2
+136,Corkery LLC,queens,mexican,medium,TRUE,21:00,13:00,3
+137,Pfeffer Inc,brooklyn,indian,medium,FALSE,9:00,0:00,3
+138,"Kreiger, Farrell and Macejkovic",brooklyn,mexican,medium,FALSE,17:00,1:00,4
+139,Stamm and Sons,brooklyn,french,cheap,TRUE,9:00,1:00,3
+140,Romaguera Group,bronx,indian,medium,TRUE,17:00,2:00,1
+141,Emmerich-West,queens,french,expensive,FALSE,9:00,21:00,4
+142,"Moore, Tromp and Green",staten island,french,expensive,FALSE,15:00,13:00,1
+143,"Dibbert, Bechtelar and Smitham",manhattan,mediterranean,expensive,TRUE,12:00,21:00,2
+144,Boyle LLC,queens,mediterranean,cheap,TRUE,19:00,20:00,1
+145,Marks and Sons,manhattan,mexican,cheap,TRUE,16:00,2:00,1
+146,Emmerich Inc,queens,indian,cheap,TRUE,13:00,14:00,1
+147,"Crooks, Moore and Walter",bronx,french,cheap,FALSE,13:00,14:00,4
+148,Kassulke Group,staten island,mexican,medium,TRUE,7:00,22:00,3
+149,Raynor and Sons,bronx,indian,cheap,FALSE,11:00,2:00,1
+150,Terry-Waelchi,bronx,peruvian,expensive,TRUE,19:00,14:00,2
+151,"Hauck, Yundt and Hudson",staten island,peruvian,expensive,TRUE,14:00,21:00,3
+152,"Senger, Gottlieb and Wisoky",manhattan,peruvian,medium,FALSE,10:00,4:00,2
+153,Gleichner LLC,staten island,french,expensive,TRUE,18:00,1:00,3
+154,"Connelly, Bergnaum and Green",bronx,mediterranean,expensive,FALSE,17:00,1:00,4
+155,Wehner-Will,queens,indian,medium,FALSE,8:00,2:00,2
+156,Schiller and Sons,manhattan,mediterranean,medium,TRUE,19:00,1:00,4
+157,Hodkiewicz-Bailey,bronx,french,medium,FALSE,19:00,22:00,4
+158,Tremblay Inc,manhattan,indian,expensive,FALSE,17:00,4:00,4
+159,Strosin and Sons,brooklyn,indian,expensive,TRUE,8:00,20:00,2
+160,Hettinger-Kuphal,bronx,french,cheap,TRUE,16:00,22:00,3
+161,Bartell-Schaden,brooklyn,french,expensive,FALSE,13:00,21:00,5
+162,"Skiles, Schneider and Roberts",queens,mediterranean,medium,TRUE,10:00,0:00,5
+163,Schroeder Group,staten island,indian,cheap,TRUE,21:00,20:00,3
+164,Jacobi-Beier,bronx,indian,cheap,FALSE,20:00,20:00,2
+165,Gibson-Morissette,brooklyn,mexican,cheap,TRUE,13:00,13:00,5
+166,"Bechtelar, Nolan and Okuneva",queens,peruvian,expensive,TRUE,10:00,1:00,5
+167,Wunsch-Harber,bronx,french,medium,FALSE,11:00,0:00,5
+168,"Wuckert, Prosacco and Christiansen",bronx,indian,cheap,FALSE,18:00,22:00,2
+169,Quigley Inc,bronx,mediterranean,cheap,TRUE,16:00,21:00,1
+170,"Orn, Waelchi and Bergstrom",bronx,mexican,expensive,TRUE,10:00,12:00,1
+171,Swaniawski and Sons,manhattan,peruvian,expensive,TRUE,21:00,0:00,3
+172,Romaguera-Stark,brooklyn,indian,medium,TRUE,7:00,13:00,3
+173,Hermiston-Klocko,bronx,french,medium,FALSE,21:00,1:00,4
+174,Jacobson Inc,staten island,mediterranean,expensive,TRUE,11:00,21:00,4
+175,"Pacocha, Morar and Hamill",manhattan,peruvian,expensive,TRUE,13:00,4:00,2
+176,"Ortiz, Windler and Gibson",staten island,mexican,expensive,FALSE,21:00,21:00,2
+177,Kihn-Mitchell,staten island,peruvian,cheap,FALSE,6:00,20:00,2
+178,"Mueller, Sanford and Gutmann",queens,mexican,medium,TRUE,11:00,12:00,1
+179,"Rowe, Pouros and Kerluke",bronx,peruvian,medium,FALSE,16:00,22:00,2
+180,Howell-Streich,bronx,indian,expensive,FALSE,6:00,4:00,2
+181,"Jacobi, Herman and Upton",queens,indian,medium,FALSE,8:00,4:00,2
+182,"Kulas, Bernier and Schumm",staten island,mexican,medium,TRUE,12:00,2:00,1
+183,"Aufderhar, Mayert and Larkin",brooklyn,mexican,expensive,TRUE,9:00,1:00,5
+184,Grady-Herman,manhattan,french,cheap,FALSE,6:00,13:00,3
+185,"Schuster, Leuschke and Abshire",bronx,indian,cheap,FALSE,20:00,21:00,4
+186,Kozey-Adams,staten island,indian,cheap,TRUE,9:00,21:00,4
+187,"Walter, Rippin and King",manhattan,peruvian,expensive,FALSE,13:00,4:00,3
+188,Boyer-Kozey,queens,mediterranean,cheap,FALSE,18:00,4:00,1
+189,Christiansen LLC,brooklyn,mexican,medium,FALSE,13:00,1:00,4
+190,Lang LLC,bronx,french,expensive,TRUE,12:00,4:00,3
+191,Prosacco-Reynolds,brooklyn,indian,expensive,FALSE,12:00,23:00,5
+192,Wiegand-Smitham,staten island,peruvian,expensive,FALSE,16:00,0:00,1
+193,Sawayn-Marks,manhattan,peruvian,expensive,FALSE,12:00,1:00,2
+194,Kautzer-Macejkovic,queens,mexican,expensive,FALSE,11:00,13:00,1
+195,Rolfson LLC,brooklyn,french,medium,TRUE,11:00,12:00,2
+196,Vandervort-Bernhard,bronx,peruvian,expensive,TRUE,18:00,13:00,5
+197,Friesen Inc,manhattan,mediterranean,cheap,TRUE,19:00,2:00,1
+198,Dare-Abernathy,bronx,mediterranean,cheap,FALSE,20:00,13:00,2
+199,Jenkins Inc,brooklyn,french,medium,TRUE,19:00,20:00,2
+200,Ankunding Inc,manhattan,mexican,expensive,FALSE,18:00,14:00,5
+201,Barrows-Hirthe,staten island,indian,medium,FALSE,20:00,21:00,3
+202,Bailey-O'Hara,bronx,mexican,medium,FALSE,15:00,12:00,1
+203,Christiansen Group,manhattan,indian,medium,FALSE,14:00,22:00,4
+204,"Boehm, Blanda and Baumbach",brooklyn,mexican,expensive,FALSE,13:00,20:00,1
+205,"Smith, Bosco and Beer",queens,mexican,expensive,FALSE,6:00,22:00,2
+206,Herzog Group,manhattan,french,expensive,FALSE,15:00,4:00,5
+207,Medhurst-Lueilwitz,brooklyn,indian,expensive,FALSE,13:00,1:00,1
+208,"Klocko, Graham and Nicolas",queens,mexican,expensive,FALSE,17:00,14:00,1
+209,Schulist-Hills,bronx,french,expensive,TRUE,21:00,3:00,2
+210,Steuber-Stehr,manhattan,mediterranean,expensive,TRUE,9:00,14:00,1
+211,Moen-Denesik,queens,french,cheap,FALSE,18:00,23:00,3
+212,Rippin-Kilback,manhattan,peruvian,medium,TRUE,17:00,23:00,3
+213,Nienow-Roob,bronx,mediterranean,cheap,FALSE,21:00,21:00,4
+214,"Pagac, Cartwright and Connelly",brooklyn,mexican,cheap,TRUE,19:00,21:00,5
+215,Runte-Upton,manhattan,mexican,expensive,FALSE,6:00,20:00,2
+216,"Huels, Murphy and Kohler",manhattan,indian,expensive,FALSE,20:00,23:00,5
+217,"Bode, Ebert and Spencer",brooklyn,mexican,medium,FALSE,9:00,21:00,4
+218,Macejkovic Inc,brooklyn,mexican,cheap,FALSE,21:00,21:00,2
+219,"Schroeder, Hoeger and Gutkowski",bronx,mediterranean,cheap,FALSE,15:00,3:00,4
+220,"Heidenreich, Reynolds and Pfeffer",brooklyn,mexican,expensive,TRUE,7:00,1:00,5
+221,"Zemlak, Barton and Schinner",staten island,mediterranean,medium,FALSE,17:00,21:00,2
+222,Adams and Sons,queens,mediterranean,medium,FALSE,21:00,21:00,3
+223,Welch-Kovacek,staten island,mexican,medium,FALSE,10:00,1:00,3
+224,"Toy, Corkery and Metz",bronx,french,medium,FALSE,16:00,14:00,3
+225,"Ritchie, Leannon and Larkin",staten island,mediterranean,medium,TRUE,9:00,13:00,3
+226,"Willms, Schmeler and Gorczany",manhattan,peruvian,medium,FALSE,13:00,23:00,3
+227,VonRueden-Von,brooklyn,mediterranean,cheap,TRUE,16:00,0:00,5
+228,Swift-Stiedemann,bronx,mexican,expensive,TRUE,11:00,3:00,2
+229,"Watsica, Cronin and Wyman",brooklyn,peruvian,medium,FALSE,19:00,4:00,3
+230,"Dickens, Moen and Kub",brooklyn,french,medium,FALSE,11:00,2:00,5
+231,Marks Group,staten island,mexican,medium,FALSE,18:00,3:00,5
+232,"Daniel, Kovacek and Haley",manhattan,mediterranean,cheap,TRUE,15:00,3:00,5
+233,Bergnaum Inc,manhattan,peruvian,expensive,FALSE,16:00,3:00,3
+234,"Hegmann, Leffler and Lueilwitz",staten island,mediterranean,expensive,TRUE,8:00,23:00,4
+235,Pagac-Will,queens,indian,medium,TRUE,14:00,2:00,1
+236,"Sauer, Pacocha and Wyman",manhattan,mexican,cheap,FALSE,14:00,4:00,3
+237,"Pollich, Carroll and Dibbert",queens,peruvian,cheap,TRUE,21:00,14:00,1
+238,Smitham-Kovacek,queens,peruvian,cheap,TRUE,14:00,23:00,4
+239,"Crooks, Gislason and Cummerata",staten island,peruvian,cheap,TRUE,14:00,20:00,2
+240,"Runte, Moen and Breitenberg",queens,mexican,expensive,TRUE,7:00,22:00,2
+241,"Green, McCullough and Gibson",queens,peruvian,expensive,TRUE,11:00,4:00,1
+242,Witting Inc,staten island,mexican,expensive,TRUE,21:00,4:00,5
+243,Carter-King,queens,mexican,expensive,FALSE,8:00,0:00,2
+244,Mitchell Group,bronx,mexican,cheap,TRUE,9:00,4:00,4
+245,Nikolaus Group,queens,indian,medium,FALSE,15:00,23:00,5
+246,"Senger, Purdy and Dickinson",manhattan,peruvian,cheap,TRUE,12:00,0:00,5
+247,Wiegand-Gorczany,staten island,indian,expensive,TRUE,9:00,2:00,3
+248,"Goodwin, Bradtke and Mitchell",queens,mexican,cheap,FALSE,10:00,22:00,4
+249,Farrell-Jerde,bronx,indian,expensive,TRUE,8:00,14:00,2
+250,"Ryan, Ledner and Wiza",brooklyn,french,medium,FALSE,13:00,0:00,5
+251,"VonRueden, Wuckert and Daugherty",staten island,peruvian,expensive,TRUE,17:00,22:00,5
+252,Reinger-Lemke,manhattan,mexican,expensive,TRUE,20:00,20:00,1
+253,DuBuque-Schamberger,staten island,peruvian,medium,FALSE,9:00,21:00,2
+254,"Spencer, Kassulke and Beahan",manhattan,mediterranean,cheap,FALSE,8:00,2:00,3
+255,"Stamm, Johns and Altenwerth",queens,peruvian,cheap,TRUE,14:00,1:00,5
+256,Medhurst Inc,staten island,indian,medium,FALSE,8:00,13:00,4
+257,McClure-Hilll,queens,mexican,cheap,TRUE,19:00,12:00,5
+258,Kilback-Hackett,staten island,mediterranean,medium,FALSE,14:00,21:00,1
+259,Mosciski Group,bronx,mediterranean,cheap,TRUE,18:00,14:00,2
+260,Nolan and Sons,queens,indian,medium,TRUE,7:00,13:00,5
+261,Stracke LLC,bronx,peruvian,medium,FALSE,11:00,22:00,1
+262,Runte-Gorczany,staten island,mediterranean,cheap,TRUE,16:00,20:00,1
+263,Fadel-Boyle,manhattan,peruvian,medium,TRUE,15:00,1:00,2
+264,"Fay, DuBuque and Romaguera",queens,french,expensive,FALSE,15:00,4:00,4
+265,Ullrich-O'Kon,brooklyn,mexican,medium,FALSE,21:00,2:00,3
+266,"Kerluke, Lebsack and Powlowski",manhattan,indian,medium,FALSE,21:00,23:00,4
+267,"Schmitt, Dooley and Hammes",queens,mediterranean,cheap,FALSE,19:00,3:00,3
+268,Jerde-Murphy,queens,french,cheap,FALSE,18:00,23:00,3
+269,Zboncak-Goldner,queens,peruvian,medium,TRUE,21:00,12:00,2
+270,Schneider-Kozey,brooklyn,french,medium,TRUE,6:00,0:00,4
+271,Crona Inc,brooklyn,french,medium,FALSE,7:00,1:00,2
+272,Hagenes and Sons,manhattan,indian,expensive,TRUE,12:00,23:00,3
+273,"Erdman, Ziemann and Yundt",queens,indian,cheap,TRUE,11:00,0:00,4
+274,Champlin-Schoen,manhattan,indian,medium,TRUE,16:00,13:00,5
+275,Wehner-Borer,brooklyn,mexican,medium,TRUE,15:00,1:00,1
+276,Kunde Inc,manhattan,mexican,expensive,TRUE,11:00,2:00,5
+277,"Reilly, Schaden and Hahn",manhattan,french,expensive,FALSE,9:00,21:00,5
+278,Jacobs-Wuckert,staten island,mediterranean,medium,TRUE,7:00,23:00,5
+279,Kuphal-Cummerata,brooklyn,french,medium,TRUE,10:00,3:00,3
+280,Carter and Sons,brooklyn,peruvian,cheap,FALSE,19:00,14:00,4
+281,Witting Inc,queens,mediterranean,expensive,FALSE,17:00,1:00,4
+282,"Frami, Hartmann and Becker",bronx,mexican,medium,TRUE,19:00,0:00,5
+283,O'Reilly-Blanda,brooklyn,french,medium,TRUE,6:00,21:00,4
+284,Feeney Group,queens,french,expensive,FALSE,18:00,14:00,2
+285,Bayer LLC,queens,mediterranean,cheap,FALSE,6:00,21:00,3
+286,Mann Group,manhattan,indian,expensive,TRUE,15:00,0:00,5
+287,"Dibbert, Fritsch and Rosenbaum",manhattan,french,medium,TRUE,20:00,0:00,1
+288,"Stanton, Douglas and Mitchell",brooklyn,mediterranean,medium,TRUE,6:00,22:00,4
+289,Schowalter-Blanda,staten island,peruvian,expensive,FALSE,6:00,20:00,1
+290,Bailey-Douglas,bronx,mexican,expensive,TRUE,13:00,2:00,3
+291,"McDermott, Wolff and Kovacek",manhattan,peruvian,cheap,FALSE,7:00,4:00,3
+292,"Bins, Prohaska and Lockman",manhattan,peruvian,cheap,TRUE,20:00,0:00,1
+293,"Bednar, Stiedemann and Reynolds",brooklyn,french,medium,TRUE,18:00,13:00,3
+294,Gleason-Roob,brooklyn,indian,medium,TRUE,8:00,23:00,2
+295,"Hoppe, Gerlach and Crist",bronx,mexican,expensive,FALSE,20:00,12:00,4
+296,Batz-Bayer,manhattan,french,medium,FALSE,18:00,12:00,2
+297,"Dickinson, Denesik and McDermott",brooklyn,mediterranean,medium,FALSE,21:00,20:00,2
+298,Volkman-Adams,bronx,mediterranean,cheap,TRUE,19:00,4:00,5
+299,"Gerlach, Pagac and Langworth",staten island,mexican,expensive,FALSE,7:00,12:00,1
+300,"Schaden, Rodriguez and Parker",queens,mediterranean,cheap,FALSE,9:00,23:00,2
+301,Stark-Erdman,manhattan,peruvian,cheap,FALSE,14:00,0:00,3
+302,"Lubowitz, Rempel and Gleichner",staten island,peruvian,cheap,TRUE,11:00,12:00,5
+303,McClure-Prosacco,brooklyn,french,medium,FALSE,21:00,1:00,1
+304,Beer-Leffler,brooklyn,peruvian,expensive,TRUE,14:00,12:00,5
+305,"Gutmann, Ullrich and Breitenberg",staten island,mexican,expensive,TRUE,7:00,4:00,3
+306,"Schmeler, Mante and Schaefer",manhattan,peruvian,medium,FALSE,15:00,0:00,5
+307,McLaughlin-Mante,manhattan,mexican,cheap,TRUE,18:00,0:00,3
+308,"Feest, Abernathy and Dooley",bronx,peruvian,cheap,FALSE,10:00,12:00,3
+309,Ziemann-Bogisich,queens,mexican,expensive,FALSE,17:00,2:00,4
+310,Pfeffer-Hartmann,queens,mediterranean,cheap,TRUE,15:00,13:00,2
+311,"Kub, Stroman and Zemlak",bronx,french,expensive,TRUE,9:00,13:00,1
+312,Grady-Bartell,manhattan,peruvian,medium,TRUE,6:00,3:00,1
+313,Keeling-Cronin,manhattan,peruvian,expensive,FALSE,18:00,23:00,5
+314,Schneider-Bartell,manhattan,french,expensive,FALSE,17:00,23:00,2
+315,Leannon and Sons,staten island,mediterranean,cheap,TRUE,9:00,14:00,1
+316,Weimann-Gutmann,staten island,peruvian,cheap,TRUE,18:00,4:00,1
+317,Rippin-Gislason,manhattan,peruvian,cheap,FALSE,7:00,20:00,1
+318,Jacobson Group,brooklyn,mediterranean,expensive,FALSE,19:00,23:00,5
+319,"Wisozk, Senger and Hilpert",staten island,indian,cheap,FALSE,15:00,23:00,3
+320,Cummings and Sons,staten island,indian,medium,TRUE,15:00,2:00,2
+321,Nitzsche-Cremin,bronx,mexican,cheap,TRUE,13:00,22:00,3
+322,Kuvalis-Lang,brooklyn,french,expensive,TRUE,14:00,14:00,3
+323,Douglas Group,staten island,indian,medium,FALSE,11:00,21:00,5
+324,Kunde and Sons,bronx,french,cheap,TRUE,20:00,3:00,4
+325,"Carter, Fadel and Daniel",bronx,peruvian,expensive,FALSE,17:00,21:00,5
+326,Pollich-Pfannerstill,staten island,peruvian,cheap,FALSE,8:00,12:00,1
+327,Haley LLC,bronx,peruvian,medium,TRUE,8:00,20:00,4
+328,"Berge, Rau and Graham",bronx,mexican,expensive,TRUE,17:00,13:00,4
+329,"Morissette, Mertz and Daniel",queens,indian,medium,TRUE,11:00,3:00,3
+330,Yundt-Rau,bronx,indian,medium,TRUE,21:00,21:00,5
+331,Simonis-Dare,manhattan,mexican,expensive,FALSE,10:00,23:00,4
+332,Kertzmann Group,staten island,french,medium,FALSE,16:00,14:00,4
+333,"Lowe, Lind and Bruen",queens,peruvian,cheap,TRUE,7:00,21:00,3
+334,Dicki LLC,brooklyn,peruvian,cheap,FALSE,8:00,22:00,2
+335,Marks-Leuschke,brooklyn,mexican,expensive,TRUE,11:00,0:00,3
+336,Stamm LLC,queens,mexican,cheap,TRUE,17:00,4:00,5
+337,Schinner-Hand,brooklyn,mexican,expensive,TRUE,12:00,2:00,1
+338,Schmidt Inc,brooklyn,indian,medium,TRUE,20:00,22:00,3
+339,"Reinger, Moore and Jast",queens,indian,cheap,TRUE,18:00,12:00,5
+340,"Grimes, Ernser and Langworth",staten island,french,medium,FALSE,15:00,13:00,1
+341,Weber and Sons,queens,peruvian,expensive,TRUE,14:00,0:00,3
+342,Lebsack and Sons,staten island,french,cheap,TRUE,20:00,3:00,5
+343,Dickinson and Sons,manhattan,mexican,medium,FALSE,8:00,0:00,4
+344,"MacGyver, Klein and Mann",queens,peruvian,medium,FALSE,12:00,2:00,5
+345,Torphy Group,queens,mediterranean,medium,FALSE,6:00,2:00,4
+346,Conn Inc,brooklyn,mexican,expensive,FALSE,13:00,4:00,4
+347,Collier and Sons,manhattan,mediterranean,medium,TRUE,6:00,22:00,2
+348,Gerhold LLC,queens,mediterranean,expensive,FALSE,11:00,4:00,2
+349,Rogahn-Stamm,brooklyn,french,medium,TRUE,17:00,3:00,5
+350,Morar-Grimes,queens,peruvian,medium,TRUE,16:00,23:00,1
+351,Nienow-Orn,manhattan,french,expensive,TRUE,14:00,0:00,5
+352,"Ratke, Hayes and Keeling",brooklyn,indian,medium,TRUE,21:00,23:00,4
+353,Swift LLC,brooklyn,mexican,expensive,FALSE,14:00,3:00,3
+354,Koelpin-Cartwright,brooklyn,mediterranean,expensive,TRUE,13:00,12:00,4
+355,"Schulist, Kreiger and Deckow",manhattan,french,cheap,TRUE,13:00,1:00,4
+356,Senger Group,queens,peruvian,medium,FALSE,14:00,0:00,4
+357,"O'Connell, Bartoletti and Heathcote",staten island,mediterranean,cheap,TRUE,12:00,13:00,2
+358,"Glover, Spinka and Bruen",staten island,peruvian,medium,TRUE,18:00,0:00,1
+359,McCullough-Schultz,staten island,peruvian,medium,TRUE,18:00,4:00,3
+360,Conn-Ritchie,bronx,mexican,medium,FALSE,7:00,14:00,2
+361,Durgan-Terry,brooklyn,indian,medium,FALSE,16:00,13:00,5
+362,"Effertz, Willms and Bernhard",brooklyn,mexican,medium,FALSE,12:00,3:00,2
+363,Connelly-Nienow,queens,mexican,cheap,TRUE,15:00,1:00,4
+364,Vandervort-Hettinger,staten island,peruvian,medium,FALSE,15:00,23:00,4
+365,"Rutherford, Haley and Hodkiewicz",bronx,mexican,medium,TRUE,19:00,22:00,5
+366,Witting LLC,bronx,peruvian,medium,FALSE,6:00,23:00,4
+367,Bahringer-Hackett,manhattan,indian,expensive,FALSE,21:00,1:00,4
+368,"Mohr, Lesch and Stokes",brooklyn,mexican,medium,TRUE,9:00,2:00,5
+369,"Maggio, Bayer and Olson",staten island,french,expensive,FALSE,17:00,12:00,2
+370,"Greenfelder, Olson and Olson",bronx,mediterranean,expensive,TRUE,20:00,21:00,4
+371,Jacobi-Lind,brooklyn,mediterranean,medium,FALSE,7:00,20:00,4
+372,"Mosciski, Homenick and Reinger",brooklyn,indian,expensive,TRUE,21:00,21:00,2
+373,Wintheiser-Heaney,staten island,peruvian,cheap,TRUE,21:00,1:00,5
+374,"Stoltenberg, Fahey and Ebert",staten island,mexican,expensive,FALSE,15:00,12:00,5
+375,"Jacobson, Effertz and Pacocha",brooklyn,french,expensive,FALSE,17:00,20:00,3
+376,Prosacco and Sons,queens,mediterranean,expensive,TRUE,13:00,14:00,3
+377,Hahn-Ritchie,queens,indian,medium,FALSE,14:00,4:00,2
+378,Swift-Monahan,staten island,mediterranean,cheap,TRUE,14:00,4:00,1
+379,Schmeler LLC,bronx,mediterranean,expensive,FALSE,9:00,21:00,5
+380,Casper LLC,queens,mediterranean,medium,FALSE,15:00,1:00,2
+381,Altenwerth LLC,staten island,mediterranean,cheap,TRUE,18:00,20:00,4
+382,"Schamberger, Ruecker and Wunsch",queens,mediterranean,expensive,TRUE,18:00,12:00,3
+383,"Carter, McGlynn and Durgan",staten island,peruvian,expensive,TRUE,10:00,22:00,3
+384,"Beier, Smitham and Metz",staten island,mediterranean,expensive,TRUE,16:00,2:00,2
+385,"Conn, Abbott and Wolff",staten island,peruvian,medium,TRUE,19:00,23:00,4
+386,"Sporer, Torp and Leffler",brooklyn,mexican,cheap,FALSE,13:00,2:00,1
+387,Volkman-White,brooklyn,indian,medium,FALSE,12:00,22:00,1
+388,Smith-Goodwin,staten island,indian,expensive,TRUE,6:00,2:00,3
+389,Grant-Gorczany,queens,french,medium,TRUE,7:00,21:00,5
+390,"Kuhlman, Becker and Wiegand",queens,peruvian,medium,TRUE,7:00,1:00,3
+391,Hackett and Sons,manhattan,indian,expensive,FALSE,8:00,4:00,1
+392,"Walker, Collins and Reilly",bronx,indian,medium,TRUE,16:00,22:00,1
+393,Nolan-Collins,staten island,french,cheap,TRUE,12:00,12:00,4
+394,Gerhold LLC,manhattan,mediterranean,cheap,TRUE,19:00,3:00,1
+395,"Orn, Reinger and Kertzmann",queens,french,cheap,FALSE,21:00,2:00,2
+396,Davis-Ankunding,staten island,french,medium,FALSE,15:00,4:00,2
+397,"Keebler, Rath and Sporer",manhattan,french,medium,FALSE,14:00,22:00,1
+398,Morissette-Conn,queens,indian,expensive,FALSE,14:00,20:00,3
+399,Durgan-Stiedemann,staten island,mediterranean,medium,FALSE,16:00,12:00,4
+400,Hammes Inc,staten island,mexican,expensive,TRUE,6:00,23:00,1
+401,Berge Inc,queens,mediterranean,expensive,FALSE,10:00,0:00,4
+402,Rosenbaum-Nienow,manhattan,mediterranean,expensive,FALSE,13:00,22:00,1
+403,Kutch-Abernathy,staten island,french,cheap,FALSE,6:00,22:00,3
+404,"Hirthe, Kuphal and Conroy",brooklyn,peruvian,cheap,TRUE,11:00,21:00,4
+405,Rolfson-Dooley,queens,indian,medium,TRUE,19:00,13:00,5
+406,Grimes-Bogisich,bronx,french,medium,FALSE,12:00,14:00,5
+407,Koepp-Cartwright,manhattan,indian,cheap,FALSE,7:00,20:00,4
+408,Funk LLC,bronx,indian,cheap,FALSE,18:00,3:00,2
+409,"Gutmann, Luettgen and Dickens",bronx,french,cheap,TRUE,12:00,20:00,4
+410,Cruickshank-Botsford,bronx,mediterranean,medium,TRUE,15:00,20:00,5
+411,"Schroeder, Brakus and Farrell",queens,peruvian,cheap,FALSE,20:00,1:00,4
+412,Daniel-Morissette,queens,french,expensive,TRUE,9:00,1:00,5
+413,Runte-Bartell,brooklyn,peruvian,medium,FALSE,12:00,20:00,1
+414,"Stamm, Schroeder and Nienow",bronx,french,medium,TRUE,12:00,20:00,1
+415,"Skiles, Thiel and Feeney",bronx,indian,medium,FALSE,15:00,0:00,1
+416,Morar-Ferry,brooklyn,mediterranean,medium,FALSE,7:00,4:00,5
+417,Rogahn-Stanton,queens,french,expensive,TRUE,19:00,13:00,1
+418,Ferry-Oberbrunner,queens,mexican,expensive,TRUE,21:00,2:00,4
+419,"Hyatt, Paucek and Feil",brooklyn,peruvian,expensive,TRUE,14:00,20:00,4
+420,"Grimes, Donnelly and Schamberger",queens,indian,expensive,TRUE,16:00,0:00,2
+421,Veum-O'Kon,staten island,mediterranean,cheap,TRUE,19:00,22:00,4
+422,Morar-Kerluke,bronx,peruvian,cheap,FALSE,19:00,2:00,1
+423,Bednar-Romaguera,staten island,mexican,cheap,TRUE,12:00,20:00,5
+424,Murray-Heathcote,queens,mediterranean,cheap,FALSE,15:00,20:00,2
+425,Mante Group,manhattan,french,expensive,TRUE,20:00,4:00,5
+426,Hintz Group,brooklyn,french,cheap,FALSE,16:00,3:00,4
+427,Witting-Steuber,bronx,french,expensive,FALSE,9:00,3:00,3
+428,Wehner-Rutherford,queens,indian,expensive,TRUE,14:00,21:00,4
+429,"Reinger, Mohr and Cruickshank",manhattan,indian,medium,TRUE,9:00,1:00,5
+430,Quigley-Spinka,bronx,french,medium,FALSE,6:00,0:00,4
+431,"MacGyver, DuBuque and Bartoletti",queens,french,cheap,TRUE,19:00,1:00,3
+432,Hoppe-Hamill,queens,french,medium,FALSE,10:00,3:00,4
+433,Witting-Robel,queens,mexican,expensive,TRUE,10:00,20:00,1
+434,"Adams, Wisozk and Smith",brooklyn,mediterranean,cheap,TRUE,7:00,21:00,5
+435,Batz and Sons,brooklyn,indian,cheap,TRUE,14:00,0:00,1
+436,"Carter, Yundt and Bernhard",brooklyn,mexican,cheap,TRUE,18:00,23:00,3
+437,Runte Group,brooklyn,peruvian,medium,TRUE,9:00,22:00,1
+438,Bogan and Sons,bronx,mediterranean,medium,FALSE,14:00,20:00,2
+439,Cole Group,staten island,indian,cheap,TRUE,18:00,23:00,1
+440,Pouros-Russel,brooklyn,mediterranean,medium,TRUE,8:00,13:00,3
+441,VonRueden and Sons,bronx,french,medium,FALSE,12:00,20:00,5
+442,Paucek-Nitzsche,bronx,mediterranean,medium,TRUE,12:00,1:00,1
+443,"Nader, Hackett and Doyle",bronx,indian,cheap,FALSE,17:00,22:00,2
+444,Rosenbaum LLC,queens,french,expensive,FALSE,6:00,4:00,5
+445,Pfannerstill and Sons,manhattan,mediterranean,cheap,FALSE,17:00,4:00,3
+446,Macejkovic Inc,brooklyn,peruvian,expensive,TRUE,14:00,20:00,4
+447,Kutch and Sons,queens,indian,expensive,FALSE,17:00,4:00,1
+448,"Prohaska, Nikolaus and Bradtke",queens,french,expensive,TRUE,8:00,22:00,5
+449,Swaniawski-Sipes,staten island,indian,expensive,FALSE,13:00,20:00,2
+450,"Adams, Lind and Kuphal",staten island,mexican,expensive,FALSE,8:00,23:00,5
+451,Krajcik Inc,queens,mediterranean,expensive,TRUE,6:00,20:00,2
+452,"Bins, Halvorson and O'Keefe",brooklyn,peruvian,expensive,TRUE,13:00,20:00,4
+453,"Howe, Dietrich and Hoeger",staten island,peruvian,cheap,TRUE,12:00,20:00,5
+454,"McClure, Gislason and King",manhattan,mexican,expensive,TRUE,12:00,2:00,1
+455,Lakin and Sons,brooklyn,indian,expensive,FALSE,19:00,14:00,5
+456,Emmerich-Champlin,queens,french,expensive,FALSE,17:00,12:00,5
+457,Brown and Sons,staten island,indian,expensive,TRUE,19:00,23:00,2
+458,Goldner-Powlowski,brooklyn,mexican,expensive,TRUE,10:00,0:00,1
+459,Okuneva and Sons,brooklyn,french,cheap,TRUE,8:00,0:00,3
+460,Thompson Inc,staten island,mexican,medium,TRUE,16:00,0:00,3
+461,Wolf-Baumbach,staten island,mediterranean,medium,TRUE,14:00,1:00,3
+462,Gutkowski-Hauck,staten island,indian,medium,FALSE,18:00,2:00,3
+463,Pouros and Sons,queens,mediterranean,cheap,FALSE,6:00,14:00,1
+464,Ryan-Bode,brooklyn,peruvian,medium,FALSE,21:00,12:00,2
+465,Emmerich-Emmerich,brooklyn,peruvian,medium,TRUE,7:00,22:00,1
+466,Herzog Inc,bronx,indian,cheap,TRUE,7:00,0:00,4
+467,Mraz-Bednar,brooklyn,french,expensive,TRUE,11:00,13:00,3
+468,"Wilderman, Balistreri and Walker",queens,peruvian,cheap,TRUE,7:00,23:00,1
+469,Ankunding LLC,manhattan,french,expensive,FALSE,21:00,21:00,1
+470,Tillman-Farrell,bronx,mexican,expensive,TRUE,8:00,0:00,5
+471,Cronin-Hirthe,staten island,indian,medium,FALSE,18:00,21:00,4
+472,"Hackett, Johnson and Mosciski",staten island,indian,cheap,TRUE,10:00,4:00,4
+473,Huel Inc,brooklyn,peruvian,cheap,TRUE,18:00,4:00,5
+474,"Cummings, Hermiston and Feil",bronx,indian,medium,TRUE,13:00,21:00,3
+475,Friesen-Littel,bronx,mexican,expensive,TRUE,11:00,3:00,2
+476,Lind Group,brooklyn,french,expensive,FALSE,14:00,13:00,3
+477,"Pfannerstill, Stehr and Davis",staten island,mexican,expensive,TRUE,18:00,13:00,3
+478,Jenkins-Turner,staten island,french,expensive,FALSE,17:00,20:00,5
+479,Armstrong Group,manhattan,mediterranean,cheap,FALSE,19:00,4:00,1
+480,Herman-Gerlach,manhattan,mexican,medium,FALSE,14:00,21:00,4
+481,"Greenfelder, Reichert and Raynor",staten island,french,expensive,TRUE,18:00,4:00,3
+482,Ziemann-Weissnat,brooklyn,indian,cheap,TRUE,9:00,13:00,5
+483,"Schulist, Lubowitz and Stanton",staten island,french,cheap,FALSE,16:00,2:00,3
+484,Beer-Turcotte,staten island,mexican,expensive,TRUE,10:00,2:00,3
+485,"Sanford, Runolfsson and Ruecker",queens,french,expensive,TRUE,12:00,22:00,2
+486,Wiza-Miller,bronx,mexican,medium,FALSE,16:00,21:00,4
+487,"Stokes, Fritsch and Kling",staten island,french,expensive,FALSE,7:00,21:00,5
+488,"Crist, D'Amore and Hayes",bronx,mediterranean,cheap,TRUE,16:00,14:00,4
+489,Quigley-Haley,brooklyn,indian,expensive,FALSE,6:00,3:00,5
+490,"Torphy, Kuphal and Prohaska",brooklyn,mexican,cheap,TRUE,19:00,13:00,1
+491,Gibson and Sons,queens,indian,cheap,FALSE,17:00,3:00,1
+492,Rogahn-Auer,manhattan,indian,medium,TRUE,14:00,1:00,2
+493,Hagenes-Reynolds,bronx,mexican,medium,TRUE,8:00,1:00,5
+494,"D'Amore, Thompson and Emard",bronx,mexican,medium,TRUE,17:00,4:00,4
+495,Bechtelar LLC,brooklyn,mexican,expensive,TRUE,12:00,14:00,5
+496,Pollich and Sons,staten island,french,medium,TRUE,12:00,22:00,4
+497,Rice Inc,brooklyn,peruvian,medium,FALSE,20:00,0:00,3
+498,"Goyette, Daniel and Grant",bronx,mediterranean,medium,FALSE,11:00,4:00,4
+499,Schowalter-Stamm,queens,french,cheap,FALSE,18:00,20:00,4
+500,Turner-Buckridge,manhattan,indian,cheap,TRUE,17:00,22:00,4
+501,Homenick and Sons,staten island,mexican,cheap,TRUE,8:00,2:00,1
+502,Von and Sons,staten island,french,expensive,TRUE,8:00,12:00,1
+503,Heidenreich-Klocko,staten island,peruvian,expensive,FALSE,20:00,23:00,2
+504,Franecki-Hegmann,manhattan,mediterranean,cheap,TRUE,11:00,22:00,1
+505,Crist-Willms,brooklyn,mexican,cheap,TRUE,6:00,14:00,3
+506,Oberbrunner and Sons,queens,indian,expensive,FALSE,19:00,22:00,3
+507,"Stoltenberg, Kshlerin and Smith",brooklyn,indian,medium,TRUE,15:00,22:00,1
+508,Padberg Inc,staten island,mediterranean,cheap,FALSE,7:00,3:00,1
+509,Fisher-Greenholt,manhattan,mexican,cheap,FALSE,19:00,22:00,3
+510,Bailey and Sons,bronx,mexican,cheap,FALSE,18:00,4:00,4
+511,Cremin-Miller,bronx,french,cheap,TRUE,19:00,4:00,5
+512,Krajcik LLC,manhattan,mexican,cheap,FALSE,13:00,22:00,2
+513,Kemmer LLC,manhattan,peruvian,cheap,FALSE,18:00,12:00,1
+514,"Kilback, Boyer and Gulgowski",manhattan,french,cheap,FALSE,15:00,21:00,5
+515,O'Keefe Inc,staten island,mexican,medium,FALSE,13:00,21:00,5
+516,Carroll-Ryan,manhattan,mexican,medium,FALSE,16:00,21:00,4
+517,Howell Inc,manhattan,peruvian,cheap,TRUE,16:00,13:00,3
+518,Leffler Inc,brooklyn,peruvian,cheap,TRUE,17:00,22:00,2
+519,Ritchie Group,queens,french,medium,TRUE,10:00,0:00,3
+520,O'Conner-Wolf,bronx,indian,medium,TRUE,19:00,0:00,5
+521,Turcotte-Mann,manhattan,french,medium,FALSE,10:00,2:00,1
+522,"Pacocha, Roob and Quitzon",brooklyn,indian,cheap,TRUE,10:00,20:00,2
+523,"Koepp, Oberbrunner and Collier",manhattan,peruvian,cheap,FALSE,19:00,12:00,1
+524,Huel-Wiza,staten island,peruvian,expensive,TRUE,21:00,2:00,1
+525,Douglas LLC,queens,mediterranean,cheap,FALSE,12:00,22:00,4
+526,Hettinger LLC,brooklyn,mediterranean,expensive,FALSE,7:00,14:00,2
+527,"Konopelski, Rodriguez and Beatty",brooklyn,french,expensive,TRUE,12:00,1:00,1
+528,Prohaska and Sons,brooklyn,mexican,cheap,FALSE,6:00,2:00,3
+529,"Hegmann, Hills and Jerde",staten island,peruvian,medium,TRUE,20:00,14:00,3
+530,Fadel LLC,bronx,mediterranean,medium,FALSE,20:00,23:00,1
+531,Medhurst and Sons,queens,mediterranean,cheap,FALSE,8:00,20:00,2
+532,O'Hara-Frami,queens,indian,cheap,FALSE,17:00,1:00,1
+533,"Hodkiewicz, Huels and Hand",brooklyn,mexican,expensive,TRUE,18:00,22:00,4
+534,Bode-Ondricka,queens,indian,cheap,TRUE,21:00,2:00,4
+535,Bashirian LLC,staten island,peruvian,medium,FALSE,21:00,3:00,2
+536,"Cruickshank, Kshlerin and Crona",staten island,peruvian,expensive,FALSE,15:00,23:00,2
+537,Schinner LLC,bronx,mexican,medium,TRUE,21:00,0:00,1
+538,Bailey-Steuber,staten island,mediterranean,expensive,TRUE,10:00,2:00,5
+539,Grant and Sons,queens,indian,cheap,TRUE,18:00,1:00,2
+540,"Flatley, Green and Gislason",staten island,peruvian,medium,TRUE,6:00,14:00,4
+541,King LLC,manhattan,mediterranean,expensive,TRUE,9:00,12:00,4
+542,Thompson-Bashirian,staten island,mexican,cheap,TRUE,18:00,14:00,2
+543,Rutherford and Sons,staten island,mexican,cheap,TRUE,11:00,14:00,3
+544,Kohler-Bernier,staten island,mediterranean,medium,FALSE,14:00,14:00,2
+545,Johns-Heller,queens,peruvian,expensive,FALSE,16:00,1:00,5
+546,Hintz-Casper,brooklyn,french,expensive,TRUE,13:00,14:00,5
+547,Cremin and Sons,staten island,mediterranean,expensive,FALSE,15:00,3:00,5
+548,Stehr LLC,staten island,french,expensive,FALSE,11:00,12:00,4
+549,"Windler, Wisozk and Harber",bronx,mexican,expensive,TRUE,20:00,1:00,1
+550,Price Inc,staten island,mexican,expensive,TRUE,11:00,14:00,5
+551,Sauer Group,bronx,mediterranean,expensive,TRUE,20:00,3:00,5
+552,"Stroman, Larson and Champlin",staten island,peruvian,cheap,FALSE,21:00,0:00,2
+553,"Frami, Kris and Runte",staten island,mediterranean,cheap,TRUE,16:00,3:00,3
+554,White and Sons,queens,french,cheap,TRUE,16:00,2:00,5
+555,Dach Inc,staten island,indian,expensive,FALSE,7:00,23:00,4
+556,"Johns, DuBuque and Jacobson",queens,peruvian,expensive,TRUE,15:00,0:00,3
+557,Balistreri-Stoltenberg,manhattan,mediterranean,medium,TRUE,21:00,4:00,2
+558,Stark LLC,staten island,french,expensive,TRUE,10:00,4:00,5
+559,Lind Inc,bronx,mediterranean,expensive,FALSE,19:00,22:00,5
+560,"Grimes, Homenick and Prohaska",manhattan,mexican,cheap,TRUE,13:00,14:00,2
+561,Green-Dietrich,brooklyn,indian,expensive,FALSE,19:00,2:00,1
+562,"Auer, Willms and O'Kon",staten island,mexican,cheap,TRUE,19:00,4:00,1
+563,Schuppe Inc,manhattan,peruvian,medium,FALSE,19:00,13:00,1
+564,Flatley Inc,manhattan,french,cheap,TRUE,10:00,20:00,4
+565,Littel Group,bronx,indian,expensive,TRUE,21:00,21:00,3
+566,"Jacobs, Heaney and Towne",manhattan,mediterranean,cheap,FALSE,21:00,20:00,2
+567,Gleason-Dicki,queens,peruvian,cheap,TRUE,17:00,20:00,2
+568,Hermann-Sauer,queens,mediterranean,expensive,FALSE,10:00,21:00,2
+569,"Hettinger, Kovacek and Marks",bronx,mexican,expensive,FALSE,7:00,2:00,4
+570,Marks-Sauer,brooklyn,indian,cheap,FALSE,10:00,2:00,5
+571,Kulas Inc,brooklyn,french,medium,TRUE,10:00,20:00,1
+572,Terry-Wisozk,staten island,french,expensive,FALSE,8:00,1:00,3
+573,"Wolf, O'Kon and Halvorson",manhattan,indian,cheap,FALSE,13:00,1:00,1
+574,Metz-Koch,bronx,french,expensive,TRUE,19:00,2:00,4
+575,"Dietrich, Bins and Wehner",queens,indian,cheap,TRUE,20:00,13:00,1
+576,Cormier-Hackett,manhattan,indian,medium,TRUE,14:00,13:00,5
+577,Gusikowski-Brakus,manhattan,mediterranean,medium,FALSE,12:00,1:00,3
+578,"Von, Waelchi and Bernier",brooklyn,mediterranean,cheap,FALSE,11:00,12:00,5
+579,Wintheiser-Sporer,manhattan,mediterranean,expensive,TRUE,15:00,1:00,1
+580,Cronin Inc,manhattan,mediterranean,cheap,TRUE,14:00,1:00,2
+581,Rath Inc,brooklyn,peruvian,medium,TRUE,18:00,0:00,4
+582,Conn Inc,staten island,mediterranean,cheap,TRUE,19:00,22:00,1
+583,Dicki-Bayer,manhattan,peruvian,medium,TRUE,10:00,12:00,5
+584,Friesen-Effertz,staten island,french,medium,TRUE,19:00,13:00,2
+585,Kutch Inc,queens,mediterranean,expensive,FALSE,10:00,1:00,3
+586,"Boyer, Rohan and Wilderman",manhattan,mediterranean,medium,TRUE,21:00,20:00,1
+587,Bogisich and Sons,brooklyn,indian,cheap,FALSE,21:00,21:00,1
+588,Deckow-Boehm,bronx,mexican,medium,FALSE,7:00,14:00,1
+589,Littel-Stanton,queens,indian,cheap,TRUE,7:00,22:00,3
+590,"Champlin, Jacobson and Greenfelder",queens,mexican,expensive,TRUE,17:00,12:00,5
+591,"Kulas, Collins and Stehr",queens,peruvian,expensive,FALSE,21:00,12:00,4
+592,"Kovacek, Dach and Davis",staten island,mediterranean,cheap,FALSE,9:00,12:00,3
+593,Rohan-Kilback,brooklyn,indian,expensive,FALSE,15:00,20:00,5
+594,Daugherty-Smitham,staten island,mexican,medium,TRUE,17:00,3:00,3
+595,Bins Group,staten island,indian,expensive,FALSE,8:00,3:00,3
+596,Vandervort Inc,brooklyn,indian,expensive,TRUE,14:00,20:00,1
+597,"Gulgowski, Simonis and Gislason",staten island,peruvian,expensive,FALSE,14:00,1:00,4
+598,McGlynn and Sons,bronx,mediterranean,cheap,TRUE,13:00,23:00,5
+599,Zboncak-Hahn,queens,mexican,medium,FALSE,10:00,21:00,1
+600,Mohr-Dach,manhattan,mediterranean,expensive,TRUE,11:00,21:00,5
+601,"Skiles, Boyle and Quitzon",queens,peruvian,medium,FALSE,21:00,4:00,4
+602,"Cremin, Ziemann and Satterfield",brooklyn,indian,expensive,FALSE,19:00,21:00,4
+603,Corkery-Dickinson,queens,mediterranean,cheap,TRUE,7:00,20:00,5
+604,Pagac-Beahan,brooklyn,mediterranean,medium,FALSE,11:00,3:00,2
+605,Monahan and Sons,staten island,mexican,expensive,TRUE,13:00,23:00,2
+606,Armstrong-Kuvalis,staten island,mediterranean,expensive,TRUE,9:00,2:00,4
+607,Ankunding-Schultz,staten island,indian,cheap,TRUE,7:00,22:00,1
+608,"Kreiger, Wisoky and Hane",bronx,mediterranean,cheap,TRUE,9:00,23:00,4
+609,Connelly LLC,queens,indian,cheap,FALSE,10:00,14:00,5
+610,Botsford-Weber,queens,peruvian,expensive,TRUE,15:00,21:00,1
+611,"Dickinson, Dooley and Wiza",queens,mexican,expensive,FALSE,20:00,1:00,5
+612,Bartell Inc,staten island,mexican,expensive,FALSE,15:00,20:00,2
+613,Bartell Group,manhattan,french,cheap,TRUE,8:00,12:00,5
+614,Beahan-Sawayn,manhattan,mediterranean,medium,TRUE,13:00,4:00,5
+615,"Stiedemann, Hackett and Thiel",bronx,mediterranean,expensive,FALSE,14:00,2:00,2
+616,O'Connell-Kiehn,queens,mexican,expensive,TRUE,9:00,22:00,4
+617,"Schuster, Shields and Frami",brooklyn,french,medium,TRUE,6:00,2:00,3
+618,Monahan-Zieme,bronx,mexican,cheap,TRUE,19:00,23:00,3
+619,"Reynolds, Kuhn and O'Hara",bronx,indian,expensive,TRUE,20:00,14:00,3
+620,Johnson and Sons,queens,mexican,medium,TRUE,9:00,22:00,3
+621,"Witting, Paucek and Rau",staten island,french,medium,FALSE,11:00,0:00,1
+622,Schiller-Kling,brooklyn,mediterranean,cheap,TRUE,12:00,2:00,2
+623,"Barrows, Hane and Heller",queens,indian,expensive,TRUE,8:00,13:00,1
+624,"Herman, Hammes and Schneider",manhattan,mexican,cheap,TRUE,11:00,13:00,5
+625,"Crooks, Pacocha and Nitzsche",staten island,french,cheap,TRUE,16:00,4:00,1
+626,Jerde-Powlowski,brooklyn,french,cheap,FALSE,10:00,22:00,5
+627,Sauer and Sons,manhattan,french,medium,FALSE,6:00,3:00,1
+628,"Lang, Heller and Runolfsson",staten island,french,medium,FALSE,15:00,14:00,2
+629,"Turner, Gerhold and Kuphal",queens,mexican,cheap,TRUE,6:00,3:00,3
+630,Heidenreich Inc,queens,french,expensive,FALSE,19:00,23:00,2
+631,Torp and Sons,staten island,indian,medium,FALSE,13:00,3:00,5
+632,"Kunze, Kris and Nader",manhattan,mexican,expensive,TRUE,14:00,2:00,2
+633,"Wyman, Lang and Ortiz",bronx,indian,cheap,FALSE,16:00,14:00,5
+634,Daugherty and Sons,manhattan,peruvian,expensive,FALSE,15:00,13:00,3
+635,Schumm-Gulgowski,brooklyn,mediterranean,cheap,TRUE,16:00,21:00,5
+636,"Cormier, Botsford and Kessler",manhattan,indian,expensive,FALSE,17:00,2:00,2
+637,"Lakin, Mraz and Heathcote",bronx,french,medium,FALSE,21:00,14:00,1
+638,Leffler-Nikolaus,staten island,mexican,cheap,FALSE,9:00,21:00,1
+639,Kreiger Inc,staten island,peruvian,medium,FALSE,13:00,12:00,1
+640,Braun-Doyle,staten island,french,cheap,TRUE,13:00,1:00,4
+641,Grimes Inc,brooklyn,mediterranean,expensive,TRUE,14:00,22:00,5
+642,"Kuvalis, Mohr and Schulist",staten island,peruvian,cheap,FALSE,19:00,21:00,3
+643,"Klein, Stamm and Predovic",brooklyn,indian,cheap,FALSE,6:00,4:00,4
+644,Ullrich-Batz,manhattan,mexican,medium,FALSE,17:00,1:00,3
+645,"Hansen, Bartoletti and Stamm",queens,mexican,cheap,FALSE,10:00,12:00,1
+646,"Walsh, Botsford and Glover",bronx,peruvian,expensive,TRUE,8:00,12:00,2
+647,Cummerata Inc,queens,peruvian,expensive,TRUE,7:00,23:00,2
+648,"Bednar, Conn and Dach",queens,mexican,medium,FALSE,12:00,20:00,4
+649,Mayert-Bins,queens,indian,cheap,FALSE,10:00,2:00,2
+650,"O'Conner, Lang and Larkin",staten island,indian,expensive,FALSE,7:00,4:00,2
+651,"Carroll, Lynch and Altenwerth",staten island,french,medium,TRUE,15:00,12:00,3
+652,Turner and Sons,brooklyn,mexican,medium,FALSE,9:00,4:00,4
+653,Kreiger Group,bronx,mexican,expensive,FALSE,14:00,3:00,5
+654,Bartell LLC,manhattan,peruvian,medium,FALSE,18:00,21:00,4
+655,Kuhic-Hegmann,queens,peruvian,expensive,FALSE,18:00,4:00,5
+656,Miller Group,queens,mediterranean,expensive,TRUE,21:00,3:00,2
+657,Quitzon-Donnelly,brooklyn,indian,cheap,TRUE,9:00,4:00,1
+658,"Nolan, Schmeler and Reichert",bronx,indian,cheap,FALSE,10:00,23:00,5
+659,"Swift, Simonis and Jenkins",bronx,french,cheap,TRUE,12:00,13:00,3
+660,Schimmel LLC,manhattan,indian,expensive,TRUE,20:00,1:00,3
+661,Von-Jones,brooklyn,mediterranean,cheap,FALSE,21:00,3:00,2
+662,Pacocha-Beier,bronx,mediterranean,expensive,TRUE,8:00,14:00,4
+663,Hermann-Vandervort,bronx,peruvian,expensive,TRUE,11:00,4:00,1
+664,Littel-Stamm,brooklyn,mediterranean,medium,FALSE,8:00,0:00,1
+665,Ward LLC,brooklyn,mediterranean,expensive,TRUE,6:00,1:00,2
+666,Franecki-Christiansen,brooklyn,indian,cheap,TRUE,16:00,23:00,5
+667,Toy-Hickle,manhattan,french,expensive,TRUE,20:00,23:00,4
+668,Harvey-Turner,bronx,mexican,medium,TRUE,15:00,23:00,4
+669,Hermiston LLC,staten island,french,medium,TRUE,14:00,0:00,3
+670,"Wolf, Bernier and Vandervort",bronx,mediterranean,expensive,TRUE,14:00,4:00,5
+671,Murphy-Donnelly,manhattan,mexican,expensive,FALSE,16:00,14:00,3
+672,"Quigley, Goodwin and Schulist",brooklyn,indian,expensive,TRUE,9:00,4:00,2
+673,"Jenkins, Orn and Tremblay",manhattan,french,medium,FALSE,7:00,23:00,3
+674,Champlin-Lebsack,staten island,peruvian,expensive,TRUE,13:00,23:00,2
+675,"Weimann, Brekke and Doyle",brooklyn,indian,expensive,FALSE,9:00,2:00,2
+676,Grant-Barrows,staten island,mexican,expensive,FALSE,6:00,14:00,2
+677,"Gerlach, Adams and Hagenes",queens,peruvian,medium,TRUE,16:00,21:00,2
+678,Robel LLC,staten island,french,cheap,FALSE,14:00,0:00,1
+679,Keebler and Sons,queens,french,expensive,TRUE,21:00,1:00,1
+680,Fisher-Okuneva,staten island,mediterranean,medium,FALSE,7:00,23:00,2
+681,Kuhn Group,manhattan,peruvian,medium,TRUE,14:00,21:00,3
+682,Monahan-Streich,brooklyn,mexican,cheap,TRUE,8:00,1:00,5
+683,"Reinger, Fadel and Kris",bronx,peruvian,cheap,FALSE,12:00,20:00,4
+684,Douglas and Sons,queens,mexican,cheap,TRUE,19:00,2:00,4
+685,Pollich-Denesik,staten island,peruvian,expensive,TRUE,12:00,20:00,4
+686,Zboncak-Smitham,bronx,french,medium,TRUE,17:00,1:00,4
+687,"Goldner, Effertz and Kunde",bronx,indian,cheap,TRUE,9:00,23:00,1
+688,Wiza-Bernier,manhattan,peruvian,medium,FALSE,9:00,13:00,4
+689,Howell-Sauer,brooklyn,indian,expensive,FALSE,13:00,23:00,5
+690,Lowe-Grimes,bronx,french,medium,TRUE,6:00,23:00,4
+691,Block-Lowe,bronx,indian,cheap,FALSE,20:00,1:00,4
+692,Kuhic-Hahn,manhattan,mediterranean,cheap,TRUE,15:00,1:00,2
+693,Mitchell LLC,brooklyn,indian,expensive,TRUE,17:00,4:00,2
+694,Carroll Group,manhattan,indian,medium,FALSE,18:00,22:00,1
+695,Vandervort Inc,brooklyn,mexican,expensive,FALSE,14:00,0:00,5
+696,Torphy-Cruickshank,brooklyn,peruvian,expensive,FALSE,14:00,22:00,2
+697,Bailey-Bruen,queens,french,cheap,TRUE,9:00,12:00,3
+698,Rau-Schuppe,queens,mediterranean,medium,FALSE,21:00,13:00,3
+699,Dare Inc,brooklyn,mediterranean,expensive,FALSE,7:00,12:00,3
+700,Predovic-Dicki,brooklyn,indian,medium,TRUE,7:00,13:00,2
+701,Williamson Group,manhattan,mexican,expensive,TRUE,21:00,1:00,1
+702,Barrows-Howe,queens,peruvian,cheap,FALSE,10:00,21:00,4
+703,"Feest, Kertzmann and Carroll",manhattan,peruvian,expensive,TRUE,17:00,22:00,3
+704,Rempel-Feil,brooklyn,indian,expensive,FALSE,17:00,0:00,2
+705,Russel LLC,bronx,indian,expensive,FALSE,19:00,22:00,1
+706,Roob-Pfeffer,staten island,peruvian,expensive,FALSE,13:00,13:00,1
+707,"O'Conner, Hackett and Carter",manhattan,peruvian,medium,FALSE,19:00,14:00,2
+708,"Renner, Keeling and Flatley",queens,peruvian,medium,TRUE,18:00,4:00,4
+709,Brown Group,queens,indian,medium,TRUE,13:00,3:00,4
+710,Schamberger and Sons,brooklyn,mediterranean,cheap,TRUE,8:00,20:00,4
+711,"Steuber, Cartwright and Bogan",manhattan,peruvian,cheap,TRUE,19:00,23:00,2
+712,"Bartell, Lynch and Dickens",brooklyn,peruvian,cheap,FALSE,8:00,21:00,5
+713,"Hirthe, Roob and Weissnat",queens,french,medium,TRUE,16:00,14:00,1
+714,Osinski LLC,bronx,mexican,cheap,TRUE,6:00,2:00,1
+715,"Sanford, Skiles and Kshlerin",staten island,indian,expensive,TRUE,6:00,0:00,1
+716,Grant-Grady,staten island,mediterranean,expensive,TRUE,16:00,13:00,1
+717,Leuschke-Kuhic,manhattan,french,expensive,TRUE,9:00,3:00,2
+718,"Hahn, West and Schulist",bronx,mediterranean,expensive,TRUE,6:00,2:00,2
+719,"Mills, Morissette and Romaguera",bronx,french,cheap,FALSE,14:00,20:00,2
+720,Lang-Kiehn,brooklyn,mexican,expensive,FALSE,12:00,20:00,1
+721,"Schmidt, Reilly and Williamson",queens,mediterranean,medium,TRUE,11:00,12:00,1
+722,Grant LLC,manhattan,indian,medium,FALSE,19:00,0:00,5
+723,Langosh-Hahn,manhattan,indian,expensive,FALSE,20:00,20:00,1
+724,"Torp, Williamson and Tillman",bronx,mexican,medium,FALSE,11:00,13:00,5
+725,Mraz-Johnston,manhattan,french,expensive,FALSE,21:00,1:00,1
+726,Gleason-Zieme,manhattan,mediterranean,expensive,FALSE,16:00,13:00,4
+727,"Schmitt, Roob and Auer",bronx,peruvian,expensive,FALSE,21:00,12:00,3
+728,Johnston Group,queens,mexican,cheap,TRUE,11:00,4:00,2
+729,Bergnaum Inc,staten island,mediterranean,cheap,FALSE,21:00,20:00,5
+730,Kreiger-Dooley,brooklyn,peruvian,cheap,FALSE,14:00,1:00,1
+731,Cronin-Gutmann,queens,peruvian,medium,TRUE,20:00,14:00,2
+732,Windler Inc,brooklyn,mediterranean,medium,FALSE,17:00,23:00,2
+733,"Mayer, Zemlak and Boyle",brooklyn,mexican,expensive,TRUE,7:00,12:00,5
+734,"Kuhn, Powlowski and Koelpin",brooklyn,indian,cheap,FALSE,16:00,2:00,1
+735,Bauch and Sons,bronx,peruvian,cheap,FALSE,20:00,4:00,4
+736,Dickinson Inc,staten island,french,cheap,FALSE,11:00,23:00,4
+737,Hettinger and Sons,manhattan,mexican,medium,FALSE,12:00,14:00,2
+738,Stehr LLC,brooklyn,mexican,expensive,FALSE,18:00,4:00,3
+739,Wyman-Bayer,brooklyn,mexican,medium,TRUE,15:00,22:00,3
+740,Schaefer LLC,manhattan,peruvian,medium,FALSE,9:00,12:00,4
+741,Hauck-Funk,staten island,mexican,expensive,TRUE,14:00,20:00,2
+742,"Bednar, Kiehn and Purdy",brooklyn,mexican,expensive,TRUE,20:00,21:00,3
+743,"Cole, Kreiger and Witting",manhattan,mediterranean,cheap,FALSE,13:00,14:00,2
+744,Homenick-Thiel,bronx,mexican,medium,FALSE,20:00,13:00,4
+745,Miller LLC,staten island,mediterranean,cheap,TRUE,8:00,12:00,2
+746,Deckow-Hamill,queens,french,medium,TRUE,20:00,12:00,3
+747,DuBuque LLC,bronx,mexican,medium,TRUE,20:00,4:00,3
+748,Funk LLC,brooklyn,french,cheap,TRUE,16:00,3:00,1
+749,"Goldner, Price and Bergstrom",queens,peruvian,cheap,FALSE,16:00,22:00,4
+750,Simonis and Sons,bronx,peruvian,expensive,TRUE,18:00,23:00,1
+751,Prosacco LLC,brooklyn,indian,cheap,FALSE,18:00,3:00,2
+752,O'Conner and Sons,bronx,peruvian,cheap,FALSE,7:00,21:00,3
+753,"Steuber, Lubowitz and Lang",bronx,mediterranean,cheap,TRUE,20:00,1:00,2
+754,Harris Inc,brooklyn,mediterranean,medium,TRUE,21:00,1:00,4
+755,Graham-Homenick,brooklyn,french,medium,FALSE,7:00,4:00,4
+756,"Mante, Ferry and Bednar",manhattan,indian,cheap,TRUE,19:00,23:00,1
+757,"Simonis, Shields and Reilly",bronx,peruvian,medium,TRUE,21:00,0:00,5
+758,Kutch-Hansen,bronx,mexican,medium,FALSE,19:00,12:00,1
+759,Stamm and Sons,manhattan,indian,medium,TRUE,7:00,14:00,3
+760,Hauck-Wisoky,staten island,indian,cheap,TRUE,16:00,21:00,4
+761,"McDermott, Macejkovic and Bogan",brooklyn,french,cheap,TRUE,14:00,14:00,2
+762,Jenkins-Will,bronx,mediterranean,medium,FALSE,20:00,2:00,2
+763,Mayer-Monahan,brooklyn,mediterranean,expensive,FALSE,11:00,4:00,4
+764,Stracke-Hickle,staten island,mexican,cheap,TRUE,18:00,20:00,4
+765,Ebert-Hagenes,brooklyn,mediterranean,expensive,FALSE,7:00,4:00,2
+766,Stanton-Wuckert,bronx,peruvian,expensive,FALSE,17:00,22:00,3
+767,Berge-Stark,bronx,indian,expensive,TRUE,13:00,14:00,3
+768,O'Keefe and Sons,queens,peruvian,cheap,FALSE,16:00,14:00,4
+769,Kuhic-Dietrich,manhattan,indian,medium,FALSE,21:00,3:00,5
+770,Goldner Inc,brooklyn,peruvian,medium,TRUE,18:00,2:00,5
+771,"Labadie, Carter and Langosh",queens,french,medium,TRUE,15:00,20:00,2
+772,"Harris, Kunde and Swaniawski",staten island,mexican,cheap,FALSE,8:00,22:00,2
+773,"Shanahan, Oberbrunner and Pacocha",brooklyn,mexican,medium,TRUE,13:00,20:00,5
+774,"Johnson, Wolff and Kreiger",brooklyn,mediterranean,cheap,FALSE,17:00,12:00,4
+775,Auer LLC,bronx,mediterranean,cheap,TRUE,12:00,0:00,2
+776,"Block, Roob and Tromp",queens,peruvian,cheap,TRUE,12:00,1:00,1
+777,Brakus and Sons,staten island,french,expensive,TRUE,15:00,3:00,2
+778,Mayer and Sons,queens,mediterranean,medium,TRUE,18:00,13:00,5
+779,Roberts and Sons,queens,french,expensive,TRUE,18:00,12:00,2
+780,Schiller Inc,queens,french,expensive,FALSE,11:00,21:00,2
+781,"Stanton, Lueilwitz and Boyer",queens,indian,medium,TRUE,12:00,23:00,1
+782,Funk LLC,bronx,indian,medium,TRUE,6:00,14:00,3
+783,Graham LLC,manhattan,mexican,medium,FALSE,9:00,12:00,5
+784,Batz LLC,queens,french,medium,FALSE,20:00,22:00,4
+785,"Steuber, Dickens and Prohaska",manhattan,mediterranean,medium,TRUE,7:00,12:00,3
+786,"Lindgren, Hermann and Russel",brooklyn,peruvian,medium,FALSE,20:00,0:00,1
+787,Nicolas LLC,bronx,mexican,expensive,TRUE,7:00,21:00,2
+788,Hoeger-Kihn,queens,mediterranean,cheap,TRUE,6:00,1:00,4
+789,"Pfannerstill, Weber and Weissnat",manhattan,indian,cheap,FALSE,14:00,23:00,4
+790,"Bogan, Robel and Bauch",manhattan,french,expensive,FALSE,16:00,23:00,1
+791,"Mayert, Corkery and Koepp",brooklyn,mediterranean,expensive,FALSE,12:00,12:00,4
+792,"Murazik, Cole and Greenholt",bronx,indian,medium,TRUE,11:00,0:00,5
+793,Gutkowski and Sons,queens,indian,medium,TRUE,11:00,0:00,3
+794,Bernier-Lueilwitz,queens,french,cheap,FALSE,17:00,21:00,1
+795,Turcotte-Hessel,brooklyn,mediterranean,expensive,FALSE,11:00,0:00,1
+796,Strosin-Wisozk,brooklyn,mexican,medium,FALSE,16:00,21:00,5
+797,Welch-White,queens,indian,medium,TRUE,10:00,13:00,4
+798,Blanda Group,queens,peruvian,medium,FALSE,15:00,23:00,4
+799,Buckridge LLC,manhattan,peruvian,medium,TRUE,6:00,12:00,1
+800,Schaefer and Sons,manhattan,mediterranean,cheap,TRUE,14:00,12:00,1
+801,Becker Group,queens,peruvian,cheap,FALSE,11:00,20:00,3
+802,Feil-Murazik,bronx,peruvian,expensive,FALSE,15:00,0:00,2
+803,"Nolan, Senger and Kiehn",queens,french,cheap,TRUE,19:00,3:00,1
+804,Carroll LLC,staten island,mexican,medium,TRUE,6:00,1:00,5
+805,"Feil, Hickle and Jacobi",queens,mexican,expensive,TRUE,11:00,23:00,5
+806,"Bechtelar, Christiansen and Little",manhattan,indian,cheap,FALSE,10:00,2:00,4
+807,Windler LLC,queens,indian,cheap,FALSE,15:00,1:00,2
+808,Towne LLC,queens,french,expensive,FALSE,16:00,12:00,1
+809,"Hoeger, Considine and Vandervort",bronx,french,medium,TRUE,17:00,4:00,4
+810,"Swift, Hodkiewicz and Casper",manhattan,french,cheap,FALSE,20:00,20:00,3
+811,"Bailey, Maggio and Langworth",queens,french,cheap,FALSE,6:00,21:00,4
+812,Wunsch and Sons,bronx,french,medium,TRUE,16:00,2:00,5
+813,Bogisich-Bradtke,staten island,mexican,expensive,FALSE,8:00,20:00,4
+814,Dietrich-Bayer,brooklyn,mediterranean,expensive,FALSE,10:00,14:00,2
+815,Wiza and Sons,bronx,peruvian,expensive,FALSE,16:00,0:00,1
+816,Langosh-McDermott,manhattan,indian,medium,TRUE,18:00,12:00,1
+817,Durgan-Wunsch,brooklyn,mexican,cheap,TRUE,15:00,12:00,4
+818,Carter-Bednar,manhattan,french,medium,FALSE,15:00,21:00,4
+819,Schmidt-Schoen,brooklyn,indian,expensive,TRUE,20:00,2:00,4
+820,Turcotte Inc,bronx,mediterranean,medium,TRUE,10:00,0:00,1
+821,"Huel, Osinski and Jerde",brooklyn,french,expensive,TRUE,17:00,2:00,3
+822,McGlynn-Flatley,queens,mediterranean,cheap,TRUE,18:00,4:00,3
+823,Murray and Sons,staten island,mediterranean,medium,TRUE,8:00,21:00,1
+824,"Bernier, Haley and Walsh",brooklyn,indian,expensive,TRUE,19:00,1:00,4
+825,"Jacobi, Emard and Stark",staten island,mexican,cheap,FALSE,18:00,23:00,4
+826,Larson LLC,brooklyn,indian,expensive,TRUE,15:00,1:00,2
+827,Von LLC,queens,mediterranean,cheap,TRUE,21:00,0:00,4
+828,Lesch Inc,manhattan,french,cheap,FALSE,20:00,21:00,5
+829,"Hegmann, Corwin and Renner",bronx,indian,expensive,TRUE,15:00,14:00,4
+830,"Lehner, Muller and Huels",staten island,peruvian,cheap,FALSE,7:00,1:00,4
+831,Cartwright-Boyle,manhattan,indian,cheap,FALSE,15:00,0:00,3
+832,Kerluke Inc,bronx,mediterranean,expensive,FALSE,16:00,14:00,3
+833,"Sipes, Wisozk and Legros",queens,peruvian,expensive,TRUE,11:00,0:00,2
+834,"Denesik, Mills and Hahn",bronx,french,medium,TRUE,9:00,12:00,5
+835,"Dicki, Wisoky and Terry",brooklyn,peruvian,expensive,FALSE,17:00,20:00,1
+836,"Lakin, Simonis and Wolff",staten island,french,cheap,FALSE,21:00,14:00,4
+837,O'Keefe-Lindgren,queens,mediterranean,expensive,TRUE,10:00,4:00,3
+838,Feest-Torp,bronx,peruvian,expensive,FALSE,21:00,2:00,1
+839,Bernier Group,bronx,mexican,medium,TRUE,17:00,22:00,5
+840,Hartmann-Dibbert,bronx,indian,expensive,TRUE,9:00,3:00,3
+841,"Fisher, Boyle and Sawayn",queens,peruvian,medium,TRUE,12:00,13:00,2
+842,Beatty-Jaskolski,bronx,mexican,medium,TRUE,17:00,3:00,1
+843,"Stroman, Jerde and Boyle",bronx,peruvian,medium,FALSE,20:00,3:00,2
+844,Stanton-Torp,queens,mexican,medium,TRUE,14:00,0:00,1
+845,"Heaney, Kohler and Ernser",queens,mediterranean,cheap,FALSE,7:00,13:00,2
+846,"Emmerich, Powlowski and Mraz",staten island,indian,expensive,TRUE,18:00,12:00,4
+847,Jaskolski-Yundt,brooklyn,peruvian,cheap,FALSE,19:00,4:00,5
+848,Homenick-Predovic,bronx,indian,medium,TRUE,15:00,21:00,5
+849,"Simonis, Turner and Homenick",bronx,indian,cheap,FALSE,8:00,13:00,3
+850,Bernhard Group,brooklyn,french,expensive,FALSE,19:00,14:00,3
+851,"Braun, Bruen and Balistreri",staten island,mexican,cheap,TRUE,6:00,2:00,4
+852,Zemlak and Sons,manhattan,indian,expensive,TRUE,19:00,13:00,1
+853,Kuhic LLC,staten island,french,medium,FALSE,7:00,21:00,4
+854,Schimmel Inc,staten island,mexican,cheap,FALSE,17:00,21:00,5
+855,Herzog LLC,brooklyn,mediterranean,expensive,FALSE,20:00,3:00,5
+856,Beahan-Medhurst,queens,mexican,expensive,FALSE,8:00,1:00,3
+857,Conroy-McDermott,manhattan,french,expensive,TRUE,10:00,1:00,4
+858,Powlowski LLC,brooklyn,peruvian,medium,TRUE,15:00,13:00,2
+859,"Zieme, Miller and Emmerich",bronx,mediterranean,expensive,FALSE,8:00,21:00,4
+860,"Conn, Predovic and Koch",manhattan,mediterranean,expensive,TRUE,6:00,22:00,1
+861,Braun-Feil,queens,peruvian,expensive,TRUE,13:00,14:00,5
+862,Goodwin-Sawayn,bronx,french,expensive,FALSE,16:00,21:00,1
+863,Gottlieb-Veum,bronx,mexican,expensive,TRUE,18:00,23:00,5
+864,"Dooley, Schiller and Halvorson",queens,french,expensive,FALSE,20:00,3:00,1
+865,"Bruen, Hoppe and Kilback",manhattan,indian,expensive,FALSE,15:00,12:00,4
+866,"Wuckert, Rosenbaum and Metz",brooklyn,indian,expensive,FALSE,19:00,12:00,4
+867,"Emard, Leffler and Robel",queens,peruvian,medium,FALSE,17:00,1:00,5
+868,Cruickshank-Kuhic,bronx,mediterranean,medium,FALSE,10:00,0:00,5
+869,Crist-Kertzmann,manhattan,mexican,cheap,TRUE,9:00,22:00,3
+870,"Reichert, Satterfield and Dickinson",bronx,french,expensive,TRUE,10:00,0:00,1
+871,"Ward, Schamberger and Lebsack",manhattan,mediterranean,cheap,TRUE,20:00,12:00,5
+872,"Stroman, Lebsack and Bosco",staten island,mediterranean,medium,TRUE,19:00,23:00,1
+873,"Schneider, Tromp and Bauch",queens,mediterranean,cheap,TRUE,11:00,22:00,2
+874,"Kuphal, Heaney and Mohr",brooklyn,mexican,cheap,TRUE,21:00,3:00,1
+875,"Koepp, Bechtelar and Rath",bronx,peruvian,medium,TRUE,13:00,3:00,4
+876,"Zulauf, O'Kon and Kulas",bronx,french,medium,FALSE,18:00,12:00,3
+877,Hickle Inc,brooklyn,french,cheap,FALSE,16:00,14:00,4
+878,"Glover, Lemke and Bailey",queens,indian,cheap,TRUE,19:00,23:00,1
+879,Raynor and Sons,staten island,mediterranean,medium,FALSE,7:00,3:00,3
+880,Swaniawski-O'Keefe,bronx,french,cheap,TRUE,15:00,12:00,2
+881,"Paucek, Keeling and Harber",queens,french,medium,FALSE,8:00,20:00,5
+882,Dooley-Maggio,bronx,mediterranean,expensive,TRUE,13:00,20:00,1
+883,"Lowe, Hackett and Abernathy",manhattan,mexican,cheap,TRUE,15:00,21:00,1
+884,Roberts LLC,brooklyn,french,cheap,FALSE,8:00,0:00,2
+885,"Boyle, Haley and Hettinger",bronx,mexican,medium,TRUE,8:00,20:00,4
+886,"Jacobson, Terry and Feest",queens,peruvian,cheap,TRUE,16:00,22:00,5
+887,"Sipes, Bernhard and Goldner",bronx,peruvian,medium,TRUE,15:00,14:00,1
+888,Waelchi LLC,queens,mexican,cheap,TRUE,8:00,4:00,2
+889,Stracke-Beatty,staten island,indian,medium,FALSE,20:00,0:00,1
+890,Gleason Group,bronx,mexican,expensive,TRUE,13:00,22:00,2
+891,Quitzon-Kuhn,brooklyn,indian,medium,FALSE,15:00,1:00,2
+892,"Daugherty, McDermott and Runolfsdottir",brooklyn,mexican,cheap,FALSE,8:00,13:00,4
+893,Christiansen and Sons,queens,mediterranean,expensive,TRUE,16:00,2:00,1
+894,Botsford-Jacobson,staten island,peruvian,medium,TRUE,13:00,1:00,2
+895,Fahey Inc,queens,mediterranean,medium,FALSE,11:00,0:00,2
+896,Fisher-Ledner,queens,mexican,expensive,TRUE,12:00,21:00,3
+897,"Shields, Terry and Sawayn",bronx,mexican,medium,FALSE,21:00,2:00,4
+898,"Hermiston, Hilll and Labadie",manhattan,indian,cheap,FALSE,18:00,14:00,1
+899,Quitzon LLC,bronx,mediterranean,expensive,FALSE,13:00,23:00,3
+900,"Purdy, Gutkowski and Tremblay",queens,french,expensive,FALSE,6:00,14:00,4
+901,"Bode, Abernathy and Boyer",staten island,mediterranean,medium,FALSE,15:00,3:00,1
+902,Runte-Berge,queens,french,medium,TRUE,17:00,0:00,2
+903,"Monahan, Murphy and Kirlin",staten island,mexican,medium,FALSE,14:00,3:00,5
+904,Lindgren-Lynch,bronx,mediterranean,expensive,TRUE,17:00,3:00,3
+905,Boehm Inc,manhattan,french,cheap,FALSE,6:00,12:00,1
+906,Jones-Muller,staten island,mediterranean,cheap,TRUE,20:00,13:00,5
+907,Baumbach-McCullough,brooklyn,indian,medium,FALSE,6:00,3:00,2
+908,Bernier Inc,manhattan,french,cheap,TRUE,19:00,23:00,3
+909,O'Kon and Sons,manhattan,indian,medium,FALSE,13:00,12:00,3
+910,Abernathy Inc,bronx,mexican,expensive,FALSE,11:00,0:00,1
+911,Swift LLC,queens,mexican,expensive,TRUE,11:00,4:00,2
+912,Pfeffer-Abernathy,staten island,peruvian,cheap,TRUE,21:00,21:00,2
+913,"Gerhold, Hand and Balistreri",staten island,mediterranean,cheap,TRUE,16:00,22:00,4
+914,"Haag, Stiedemann and Crist",staten island,french,medium,TRUE,15:00,20:00,4
+915,Paucek Group,staten island,mediterranean,medium,TRUE,16:00,13:00,1
+916,"Cassin, Daugherty and Beier",brooklyn,mexican,cheap,FALSE,15:00,21:00,5
+917,Blanda LLC,bronx,indian,cheap,FALSE,18:00,2:00,2
+918,Beer and Sons,staten island,peruvian,expensive,FALSE,16:00,21:00,5
+919,"Orn, Wisozk and Kilback",bronx,french,expensive,FALSE,19:00,4:00,1
+920,Keeling and Sons,queens,peruvian,cheap,FALSE,18:00,13:00,4
+921,"Satterfield, Kuhic and Hilll",queens,mediterranean,expensive,TRUE,10:00,0:00,5
+922,Kiehn-Gutkowski,brooklyn,mediterranean,expensive,FALSE,16:00,3:00,3
+923,Runolfsson-Jast,staten island,mediterranean,cheap,TRUE,6:00,13:00,1
+924,Muller-Russel,bronx,indian,expensive,TRUE,13:00,1:00,2
+925,Schuster LLC,brooklyn,french,cheap,FALSE,11:00,23:00,1
+926,Jacobs Group,manhattan,indian,expensive,TRUE,15:00,13:00,3
+927,"Braun, Kirlin and Carter",bronx,indian,cheap,TRUE,9:00,3:00,4
+928,"Wintheiser, Stamm and McDermott",staten island,mediterranean,expensive,TRUE,20:00,13:00,5
+929,Goyette LLC,queens,mediterranean,medium,TRUE,14:00,23:00,5
+930,"Mertz, Lesch and Johnson",manhattan,indian,medium,FALSE,12:00,20:00,3
+931,Ratke-Roberts,queens,indian,medium,TRUE,10:00,21:00,2
+932,Ryan-Runte,queens,indian,cheap,FALSE,17:00,12:00,2
+933,Blanda-Hagenes,brooklyn,indian,expensive,FALSE,21:00,21:00,2
+934,Becker and Sons,manhattan,french,expensive,FALSE,8:00,21:00,2
+935,"Parker, Veum and Sanford",staten island,mexican,cheap,TRUE,15:00,22:00,2
+936,"Schamberger, Goyette and Schultz",staten island,indian,expensive,TRUE,15:00,4:00,1
+937,Vandervort Inc,queens,peruvian,expensive,TRUE,10:00,1:00,1
+938,Gulgowski-Corwin,queens,mexican,medium,FALSE,10:00,3:00,2
+939,Schmidt-Larson,bronx,peruvian,medium,TRUE,14:00,1:00,2
+940,Schowalter-Tremblay,queens,indian,cheap,FALSE,21:00,20:00,5
+941,Sanford-Lynch,brooklyn,mexican,expensive,FALSE,15:00,0:00,1
+942,Murray LLC,manhattan,indian,expensive,FALSE,7:00,14:00,2
+943,"Franecki, O'Conner and Olson",queens,mexican,expensive,TRUE,16:00,14:00,5
+944,Johns-Dickinson,manhattan,mediterranean,expensive,TRUE,15:00,23:00,5
+945,Feil-Miller,bronx,mediterranean,expensive,TRUE,20:00,21:00,4
+946,Morar Inc,bronx,mexican,cheap,FALSE,15:00,1:00,5
+947,Langosh-Ortiz,bronx,french,medium,FALSE,14:00,4:00,4
+948,"Volkman, Stiedemann and Gerlach",brooklyn,mediterranean,cheap,TRUE,12:00,22:00,5
+949,Connelly Group,bronx,mexican,cheap,TRUE,14:00,4:00,4
+950,"Marquardt, Nikolaus and Collier",staten island,french,expensive,FALSE,15:00,4:00,1
+951,Senger LLC,brooklyn,indian,medium,TRUE,11:00,2:00,5
+952,Ortiz Group,bronx,french,medium,TRUE,6:00,20:00,4
+953,Braun-Kling,manhattan,peruvian,medium,FALSE,15:00,4:00,4
+954,"Kautzer, Mitchell and Harber",bronx,indian,medium,FALSE,17:00,3:00,3
+955,Schneider Inc,queens,indian,expensive,TRUE,16:00,20:00,5
+956,O'Keefe-Beier,staten island,peruvian,expensive,TRUE,6:00,4:00,4
+957,"Hoeger, Stark and Morissette",manhattan,mediterranean,medium,FALSE,16:00,22:00,2
+958,"Johns, Kuhn and Jerde",manhattan,indian,medium,TRUE,13:00,12:00,3
+959,Bradtke-Anderson,brooklyn,indian,medium,FALSE,18:00,13:00,5
+960,Lebsack LLC,brooklyn,mediterranean,cheap,TRUE,18:00,0:00,5
+961,Gerlach Group,staten island,peruvian,medium,TRUE,11:00,23:00,4
+962,Hartmann Group,bronx,indian,cheap,TRUE,11:00,23:00,2
+963,"Daniel, Hickle and Christiansen",brooklyn,french,expensive,FALSE,8:00,0:00,1
+964,Dibbert and Sons,brooklyn,mexican,expensive,FALSE,13:00,0:00,5
+965,Lindgren Group,queens,indian,cheap,TRUE,17:00,20:00,3
+966,Hettinger Inc,brooklyn,indian,expensive,FALSE,17:00,0:00,4
+967,"Schultz, Kub and Jacobs",bronx,mexican,medium,TRUE,17:00,4:00,1
+968,Ryan-Ziemann,manhattan,indian,medium,TRUE,16:00,2:00,5
+969,"Labadie, Feeney and Bernhard",bronx,indian,expensive,TRUE,11:00,22:00,3
+970,Crona-Ziemann,bronx,indian,cheap,FALSE,10:00,3:00,5
+971,Predovic Inc,manhattan,indian,medium,TRUE,17:00,21:00,1
+972,"Bechtelar, McClure and Schamberger",bronx,mexican,expensive,FALSE,19:00,1:00,3
+973,Osinski and Sons,staten island,mediterranean,cheap,TRUE,14:00,1:00,4
+974,Dach-Emmerich,staten island,mexican,cheap,TRUE,11:00,13:00,2
+975,"Bahringer, Hirthe and Bruen",brooklyn,french,expensive,TRUE,12:00,1:00,1
+976,"Ankunding, Hodkiewicz and Gottlieb",staten island,mediterranean,cheap,FALSE,17:00,12:00,3
+977,"Bednar, Dibbert and Okuneva",bronx,french,medium,TRUE,13:00,23:00,3
+978,Greenholt-Nolan,manhattan,french,expensive,TRUE,20:00,2:00,3
+979,Corwin and Sons,bronx,indian,expensive,TRUE,16:00,22:00,3
+980,Fahey Group,bronx,mexican,cheap,TRUE,14:00,2:00,2
+981,Buckridge and Sons,staten island,indian,cheap,TRUE,8:00,20:00,5
+982,"Rath, Wolff and Kohler",staten island,french,expensive,FALSE,14:00,4:00,1
+983,"Hane, Waelchi and Roberts",manhattan,mexican,expensive,TRUE,17:00,20:00,4
+984,"Brakus, Torphy and Gusikowski",brooklyn,peruvian,expensive,FALSE,6:00,20:00,1
+985,Cassin Group,brooklyn,peruvian,medium,FALSE,20:00,12:00,5
+986,Gleichner-Kertzmann,bronx,peruvian,cheap,FALSE,8:00,12:00,1
+987,Gleason and Sons,staten island,mediterranean,expensive,FALSE,6:00,1:00,1
+988,"Dickens, Hansen and Mills",bronx,mediterranean,expensive,TRUE,20:00,14:00,3
+989,"Leffler, Cummings and Jacobi",brooklyn,mediterranean,expensive,TRUE,16:00,12:00,5
+990,Waters-Schamberger,bronx,mexican,medium,TRUE,12:00,2:00,5
+991,Cartwright and Sons,brooklyn,peruvian,cheap,TRUE,6:00,1:00,5
+992,"Haag, Murphy and Stokes",brooklyn,peruvian,expensive,FALSE,11:00,1:00,1
+993,Aufderhar and Sons,queens,mexican,medium,TRUE,17:00,14:00,2
+994,Durgan-Reynolds,staten island,french,medium,TRUE,8:00,23:00,4
+995,Mohr-Price,staten island,mediterranean,expensive,FALSE,9:00,23:00,1
+996,"Fisher, Schulist and Crona",queens,mediterranean,expensive,TRUE,6:00,20:00,2
+997,Lesch Group,staten island,mediterranean,medium,TRUE,17:00,3:00,5
+998,Mosciski-Wehner,queens,peruvian,medium,TRUE,17:00,1:00,1
+999,Leuschke-Muller,staten island,indian,cheap,TRUE,7:00,4:00,2
+1000,Streich-Fadel,queens,peruvian,cheap,FALSE,12:00,12:00,5
