@@ -13,7 +13,7 @@
  ```
 
 ### Code to import the csv file into the restaurant table
-- before importin use this code- 
+- before importing use this code- 
 ```sql
 .separator ","
 ```
@@ -44,6 +44,9 @@ Answer number corresponds to the question number on instructions page
 ```sql
 - 6) select neighbourhood, count(name) as number_of_restaurants from restaurants group by neighbourhood; 
 ```
+
+
+
 ## Social Media A.db
 
 ### Code to create the tables
@@ -62,7 +65,7 @@ Answer number corresponds to the question number on instructions page
 - [Posts file](https://github.com/dbdesign-students-spring2024/4-sql-crud-Vighnesh2822000/blob/main/data/posts.csv)
 
 ### code to imort the csv files
-- before import use this code-
+- before importing use this code-
 ```sql
 .separator ","
 ```
